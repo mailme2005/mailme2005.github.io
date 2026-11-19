@@ -8,7 +8,7 @@
   <meta name="theme-color" content="#f8f7f2">
   <meta name="referrer" content="strict-origin-when-cross-origin">
   <title>Little Everyday Apps · Independent Apps &amp; Games</title>
-  <meta name="description" content="Independent apps and games from Little Everyday Apps. Explore Tripzy, Tapzilla, and Little Garden, and find app support and privacy information.">
+  <meta name="description" content="Independent apps and games from Little Everyday Apps. Find help and privacy information for every app.">
   <link rel="canonical" href="https://mailme2005.github.io/">
   <style>
     :root { --paper:#f8f7f2; --ink:#253b32; --muted:#5b665f; --line:#d9ddd3; --green:#385b43; }
@@ -57,6 +57,11 @@
     .support p { font-size:14px; color:var(--muted); margin:0; max-width:530px; }
     .email { display:inline-flex; align-items:center; justify-content:space-between; gap:24px; background:var(--ink); color:white; border-radius:7px; padding:14px 20px; font-size:14px; text-decoration:none; white-space:nowrap; }
     .email:hover { background:var(--green); color:white; }
+    #all-apps { margin-top:64px; }
+    .all-apps { list-style:none; margin:26px 0 0; padding:0; border-top:1px solid var(--line); }
+    .all-apps li { display:flex; flex-wrap:wrap; align-items:baseline; justify-content:space-between; gap:4px 24px; padding:13px 0; border-bottom:1px solid var(--line); font-size:15px; }
+    .all-name span { color:var(--muted); margin-left:8px; font-size:14px; }
+    .all-links { display:flex; gap:18px; font-size:13px; }
     footer { display:flex; justify-content:space-between; gap:24px; padding-block:25px 32px; font-size:12px; color:var(--muted); }
     footer p { margin:0; }
     @media (max-width:800px) {
@@ -91,7 +96,7 @@
   <div class="wrap">
     <header class="header">
       <a class="brand" href="/" aria-label="Little Everyday Apps home"><span class="monogram" aria-hidden="true">LE</span>Little Everyday Apps</a>
-      <nav aria-label="Main navigation"><a href="#apps">Apps</a><a href="#contact">Contact</a></nav>
+      <nav aria-label="Main navigation"><a href="#apps">Apps</a><a href="#all-apps">All apps</a><a href="#contact">Contact</a></nav>
     </header>
     <main id="main">
       <section class="hero" aria-labelledby="intro-title">
@@ -105,21 +110,36 @@
             <div class="app-visual travel"><img src="https://mailme2005.github.io/tripzy/icon-256.png" width="88" height="88" alt="Tripzy app icon"></div>
             <p class="category">Travel &amp; discovery</p><h3 id="tripzy-title">Tripzy</h3><p class="subtitle">AI Trip Planner</p>
             <p class="description">Turn your destination, dates, and travel preferences into a day-by-day itinerary. Make room for the places you want to discover.</p>
-            <p class="app-links"><a href="https://mailme2005.github.io/tripzy/support.html" aria-label="Explore Tripzy and get support">Explore &amp; support <span aria-hidden="true">↗</span></a><a href="https://mailme2005.github.io/tripzy/privacy.html" aria-label="Tripzy privacy policy">Privacy</a></p>
+            <p class="app-links"><a href="tripzy/support.html" aria-label="Explore Tripzy and get support">Explore &amp; support <span aria-hidden="true">↗</span></a><a href="tripzy/privacy.html" aria-label="Tripzy privacy policy">Privacy</a></p>
           </article>
           <article class="app" aria-labelledby="tapzilla-title">
             <div class="app-visual music"><img src="https://mailme2005.github.io/tapzilla/icon-256.png" width="88" height="88" alt="Tapzilla app icon"></div>
             <p class="category">Music &amp; rhythm</p><h3 id="tapzilla-title">Tapzilla</h3><p class="subtitle">Tap the beat. Play the song.</p>
             <p class="description">Every tap plays the next note. Catch the beat, build your band, and hear your own performance come together.</p>
-            <p class="app-links"><a href="https://mailme2005.github.io/tapzilla/support.html" aria-label="Explore Tapzilla and get support">Explore &amp; support <span aria-hidden="true">↗</span></a><a href="https://mailme2005.github.io/tapzilla/privacy.html" aria-label="Tapzilla privacy policy">Privacy</a></p>
+            <p class="app-links"><a href="tapzilla/support.html" aria-label="Explore Tapzilla and get support">Explore &amp; support <span aria-hidden="true">↗</span></a><a href="tapzilla/privacy.html" aria-label="Tapzilla privacy policy">Privacy</a></p>
           </article>
           <article class="app" aria-labelledby="garden-title">
             <div class="app-visual garden"><span class="garden-mark" aria-hidden="true"><svg viewBox="0 0 64 64" fill="none"><path d="M31 48V28" stroke="#fbf8e8" stroke-width="3" stroke-linecap="round"/><path d="M31 36C17 37 12 29 13 20C24 19 32 24 31 36Z" fill="#dbe8ba"/><path d="M31 29C30 16 38 11 49 12C50 23 43 30 31 29Z" fill="#fbf8e8"/><path d="M19 50C25 47 39 47 45 50" stroke="#fbf8e8" stroke-width="3" stroke-linecap="round"/></svg></span></div>
             <p class="category">Gardens &amp; quiet moments</p><h3 id="garden-title">Little Garden</h3><p class="subtitle">Mochi Bunny · <span lang="zh-Hans">一方小园</span></p>
             <p class="description">Arrange flowers, paths, and ponds in a garden of your own. Spend time with your bunny companion and capture a favorite moment as a postcard.</p>
-            <p class="app-links"><a href="https://mailme2005.github.io/little-garden/en/support.html" aria-label="Explore Little Garden and get support">Explore &amp; support <span aria-hidden="true">↗</span></a><a href="https://mailme2005.github.io/little-garden/en/privacy.html" aria-label="Little Garden privacy policy">Privacy</a></p>
+            <p class="app-links"><a href="little-garden/en/support.html" aria-label="Explore Little Garden and get support">Explore &amp; support <span aria-hidden="true">↗</span></a><a href="little-garden/en/privacy.html" aria-label="Little Garden privacy policy">Privacy</a></p>
           </article>
         </div>
+      </section>
+      <section id="all-apps" aria-labelledby="all-title">
+        <div class="section-heading"><h2 id="all-title">All apps</h2><p>Help and privacy pages for every app.</p></div>
+        <ul class="all-apps">
+          <li><span class="all-name">Cargo Switch <span lang="zh-Hans">机关货运站</span></span><span class="all-links"><a href="cargo-switch/support-en.html">Help</a><a href="cargo-switch/privacy-en.html">Privacy</a><a href="cargo-switch/support.html" lang="zh-Hans" hreflang="zh-Hans">中文</a></span></li>
+          <li><span class="all-name">Little Garden: Mochi Bunny <span lang="zh-Hans">一方小园</span></span><span class="all-links"><a href="little-garden/en/support.html">Help</a><a href="little-garden/en/privacy.html">Privacy</a><a href="little-garden/support.html" lang="zh-Hans" hreflang="zh-Hans">中文</a></span></li>
+          <li><span class="all-name">Mobile Fortress <span lang="zh-Hans">移动堡垒</span></span><span class="all-links"><a href="mobile-fortress/support.html">Help</a><a href="mobile-fortress/privacy.html">Privacy</a></span></li>
+          <li><span class="all-name">My Little Night Stall <span lang="zh-Hans">今晚我出摊</span></span><span class="all-links"><a href="night-market-stall/support-en.html">Help</a><a href="night-market-stall/privacy-en.html">Privacy</a><a href="night-market-stall/support.html" lang="zh-Hans" hreflang="zh-Hans">中文</a></span></li>
+          <li><span class="all-name">Neighborhood Delivery <span lang="zh-Hans">社区配送站</span></span><span class="all-links"><a href="community-delivery/support-en.html">Help</a><a href="community-delivery/privacy-en.html">Privacy</a><a href="community-delivery/support.html" lang="zh-Hans" hreflang="zh-Hans">中文</a></span></li>
+          <li><span class="all-name">Packed Just Right <span lang="zh-Hans">行李箱刚刚好</span></span><span class="all-links"><a href="perfect-packing/support-en.html">Help</a><a href="perfect-packing/privacy-en.html">Privacy</a><a href="perfect-packing/support.html" lang="zh-Hans" hreflang="zh-Hans">中文</a></span></li>
+          <li><span class="all-name">Receipted <span lang="zh-Hans">花有据</span></span><span class="all-links"><a href="huayouju/en/support.html">Help</a><a href="huayouju/en/privacy.html">Privacy</a><a href="huayouju/support.html" lang="zh-Hans" hreflang="zh-Hans">中文</a></span></li>
+          <li><span class="all-name">Tapzilla</span><span class="all-links"><a href="tapzilla/support.html">Help</a><a href="tapzilla/privacy.html">Privacy</a></span></li>
+          <li><span class="all-name">Tongzhuo <span lang="zh-Hans">同桌</span></span><span class="all-links"><a href="tongzhuo/support.html">Help</a><a href="tongzhuo/privacy.html">Privacy</a></span></li>
+          <li><span class="all-name">Tripzy: AI Trip Planner</span><span class="all-links"><a href="tripzy/support.html">Help</a><a href="tripzy/privacy.html">Privacy</a></span></li>
+        </ul>
       </section>
       <section class="support" id="contact" aria-labelledby="contact-title">
         <div><h2 id="contact-title">A question or an idea?</h2><p>Questions, feedback, and ideas are welcome. For help with an app, include its name, your device model, and a short description of the issue.</p></div>
