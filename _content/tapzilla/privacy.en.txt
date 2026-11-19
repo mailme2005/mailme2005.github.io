@@ -1,0 +1,46 @@
+@updated 2026-11-19
+@summary You don’t need an account to play Tapzilla, and your progress stays on your device, where we don’t receive it. The game shows ads from Google that are not personalized; buying Remove Ads turns them off completely. Game Center is optional.
+
+## What we receive
+We receive nothing about how you play. We only receive your email address and your message if you choose to write to us.
+### When you play
+The following is saved on your device so the game works. It isn’t sent to us or synced between devices, except that Daily Jam and Endless Jam scores and achievements go to Apple’s Game Center if you use it.
+- Game progress, such as your player level, experience, scores, records, streaks and achievements.
+- Your settings, such as instrument, color theme, sound and haptics.
+- Performances you choose to save, which are the notes and timing of your taps.
+- Whether you have bought Remove Ads.
+The game doesn’t use the microphone, camera, contacts or your precise location, and it never asks to track you across other apps and websites.
+### When ads are shown
+Unless you buy Remove Ads, the game shows ads from Google, and asks for any privacy choices your region requires. Every ad the game requests:
+- Is non-personalized: chosen from context, not from a profile of you.
+- Asks Google to treat the request as child-directed, which turns off personalized and interest-based advertising (from version 1.9).
+- Is limited to content rated for general audiences.
+Because the game never asks for permission to track you, your device’s advertising identifier isn’t available to the game or to Google.
+To deliver ads, measure them and prevent fraud, Google and its partners may handle limited information, such as your IP address, the approximate location it suggests, device identifiers other than the advertising identifier, device type and settings, ad interactions, and crash and performance data. Google handles this under its own privacy policy.
+### When you buy Remove Ads
+Apple handles the purchase. The game receives only confirmation of it, so it can turn ads off. We never see your payment details.
+### If you use Game Center
+From version 1.10, the game supports Apple’s Game Center. It is optional: the game works fully without it, and you can sign in or out in your device’s Settings. If you’re signed in, the game sends your Daily Jam and Endless Jam scores and the achievements you earn to Apple’s Game Center. It also shows your rank, and the names and scores of nearby players and friends, which it reads from Game Center on your device.
+Apple handles your Game Center profile, friends, scores and achievements. We don’t receive or keep any of it, and we can’t see who you are. Your leaderboard scores, Game Center nickname and avatar may be visible to other players, depending on your Game Center settings.
+### When you contact us
+If you email us, we use your message only to reply, and you can ask us to delete it.
+
+## Who helps handle it
+- **Google** provides the ads and the ad privacy choices. See the [Google privacy policy](https://policies.google.com/privacy) and [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
+- **Apple** provides the App Store, the Remove Ads purchase and Game Center. See the [Apple privacy policy](https://www.apple.com/legal/privacy/).
+We don’t sell your information, and we don’t share it with anyone else.
+
+## Where it is kept and how to delete it
+Your progress, settings and saved performances stay on your device until you delete them in the game or delete the game. They may be included in your device backups, under Apple’s terms.
+- Delete saved performances in the game, or delete the game to remove everything it saved on your device.
+- Review or change your ad privacy choices in Settings > Ad Privacy Choices, where your region requires them.
+- Buy Remove Ads to stop ads, and with them the information Google handles for ads.
+- Play without Game Center, or sign out of it in your device’s Settings.
+Depending on where you live, you may have the right to see, correct or delete your information, to object to how it is used, and to complain to your local data protection authority. Because we don’t receive your gameplay information, most requests about ads are best made to Google.
+
+## Children
+Tapzilla is rated 4+ and can be enjoyed by players of all ages. We don’t knowingly collect personal information from children. Because children may play, every ad request asks for child-directed treatment and general-audience content, as described above. Parents can limit Game Center features, such as friends and multiplayer, with Apple’s Screen Time settings. If you are a parent or guardian with a question, please contact us.
+
+## Contact us
+For any privacy question or request, email {email}.
+Tapzilla is published by Little Everyday Apps (Guan Jie Tan). We may update this policy when the game, the companies we work with or the law changes. We’ll post the new version here with a new date.

@@ -1,0 +1,41 @@
+@updated 2026-11-19
+@lede Little routes, warm stories. How to play, progress and settings, all on one page.
+@include support-contact
+
+## How to play
+### How do I make my first delivery?
+Tap Make Your First Delivery, then Tap to load at the florist on the map, then Deliver to Florist. The van hands over the parcel automatically at the door. The round ends once every parcel is delivered and all vans have returned.
+
+### How do I plan a better route?
+Tap the same neighbor again to load another parcel. Stops follow the order in which you first select neighbors. Before departing, use Edit Stops to move a stop earlier, compare the expected distance, or unload a parcel.
+Later chapters give you two vans, so you can load one while the other is out.
+
+### Are stars and errands required?
+No. Deliver all parcels and return to the depot to move through the six chapters. There is no countdown. Stars, trip badges and event stamps are extra challenges.
+An errand counts only once its parcels are actually delivered; finish the whole round to collect the stamp.
+
+### Where are the letters and neighborhood changes?
+Tap the envelope at the top of the screen. Completing chapters brings replies from your neighbors and changes the street: flowers on the windowsills, café seating and a reading nook. The events board features the Windowsill Flower Swap, Tea on the Corner, Stories Under the Tree or the Seed-Sharing Corner.
+
+## Progress and saves
+### Do deliveries continue while I’m away?
+No. The game saves and pauses when you leave. Tap Resume Deliveries when you return.
+
+### Will my progress survive a new phone or deleting the game?
+Progress is saved automatically on this device, with no account and no cloud sync. If you move to a new phone by restoring a backup or transferring your data, your progress usually comes along. Deleting the game deletes your progress. We hold no copy of it and cannot restore it for you.
+
+## Sound, language and more
+### How do I adjust sound and animations?
+Tap the sliders button to open Game Settings, then find Sound & Motion. Music and sound effects have separate switches and volume controls, and you can turn off animations.
+Sound follows Silent mode, so check your device volume and headphones too. If you’re playing your own music, the game’s music steps aside.
+Music stops when you unplug headphones. Open Game Settings and tap Done, or pause and tap Resume Deliveries, and it will come back.
+
+### How do I change the language?
+Tap 中文 / English on the home screen, or open Game Settings with the sliders button and choose 中文 or English at the top. The switch is instant. The game remembers your choice, and your deliveries, letters, stamps and sound settings are kept.
+Until you choose, the game follows your device’s language, and shows English if it is neither of the two.
+
+### Where do the music and artwork come from?
+The background track, “A Slow Morning on Qinghe Lane,” and seven everyday sound effects were made for this game. No third-party songs, recordings or samples were used. The neighbors, streets and vans are original artwork too; interface icons use Apple’s system symbols.
+
+### Want to know about privacy?
+See the [privacy policy](privacy-en.html). You can also read it offline in Game Settings, under Help, Privacy & Music Credits.

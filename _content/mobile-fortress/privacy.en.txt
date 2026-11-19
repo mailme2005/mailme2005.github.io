@@ -1,0 +1,30 @@
+@updated 2026-11-19
+@summary Mobile Fortress works offline, needs no account, has no ads or purchases and does not track you. Your progress stays on your device. Only if you use Game Center are your scores and achievements sent to Apple.
+
+## What we receive
+The game itself sends us nothing about you. We only receive your email address and your message if you choose to write to us.
+### When you play
+Your alloy, upgrades, mission progress, medals, Endless and Daily Challenge records, paints, cannon choice, and language and sound settings are saved on your device. The game has no ads, no in-app purchases, does not track you, gathers no usage statistics, and never asks for your location, camera, microphone, contacts or photos.
+### If you use Game Center
+Game Center is optional. If your device is signed in, the game sends your achievements, your Endless Breakout best score and your Daily Challenge times to Apple’s Game Center, so they can appear on leaderboards and in your Game Center profile. We do not receive your Game Center account details. You can play without signing in.
+@include email
+
+## Who helps handle it
+- **Apple** delivers the game and runs Game Center. If iCloud Backup is on, Apple keeps the backup under your settings.
+- **Email (Gmail)** is used only when you write to us.
+- **This website** has no ads and no analytics scripts. Its host, GitHub, may keep basic visit records such as IP addresses.
+> Their own policies: [Apple privacy policy](https://www.apple.com/legal/privacy/) · [Google privacy policy](https://policies.google.com/privacy) · [GitHub privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
+
+## Where it is kept and how to delete it
+### Where it is kept
+On your device. The game has no cloud save of its own; if device backup is on, the backup may include your progress. We hold no copy of your save, so we cannot view or restore it for you.
+If a save cannot be read, you can export the original with the system share button, or start over after the game keeps a copy on your device. An exported copy goes only where you send it, and recovery is not guaranteed.
+### How to delete it
+- Delete the game in your device’s Settings, and its saves, settings and kept copies go with it. Offload App keeps the data.
+- Scores and achievements in Game Center are kept by Apple. You can sign out of Game Center in your device’s Settings; to delete your Game Center data, contact Apple through its privacy page.
+- A copy inside a device backup is managed in your backup settings.
+- To see, correct or delete your emails with us, write to us from the address you used.
+
+@include children
+
+@include contact-privacy

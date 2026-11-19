@@ -1,0 +1,20 @@
+@updated 2026-11-19
+@summary Packed Just Right works offline, needs no account, has no ads and does not track you. Your progress stays on your device, where we cannot see it.
+
+## What we receive
+The game itself sends us nothing about you. We only receive your email address and your message if you choose to write to us.
+### When you play
+Your arrangements, completed levels, travel stickers, and language and sound settings are saved on your device. The game has no ads, does not track you, gathers no usage statistics, and never asks for your camera, microphone, photos, contacts or location.
+@include email
+
+@include who-offline
+
+## Where it is kept and how to delete it
+### Where it is kept
+Only on your device. The game has no cloud sync; if device backup is on, the backup may include your progress. We hold no copy of your progress, so we cannot view or restore it for you.
+Replaying or restarting a level only changes the current arrangement. The levels you have completed and the stickers you have earned are kept.
+@include delete-offline
+
+@include children
+
+@include contact-privacy

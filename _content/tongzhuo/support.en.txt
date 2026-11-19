@@ -1,0 +1,59 @@
+@updated 2026-11-19
+@lede Split the bill. Keep the evening easy. How it works, AI splits, purchases and backups, all on one page.
+@contact Please tell us your device model, iOS version, app version and what happened. Cover personal details in screenshots, and never send passwords or card details.
+
+## How to use it
+### How do I split a bill?
+There are three steps:
+- **Order**: note who had what, by typing or with your keyboard’s dictation, while it is still fresh.
+- **Receipt**: photograph the receipt or enter it by hand, then check the items, amounts, currency, tax, service charge, tip and any discount.
+- **Split**: review each person’s share and confirm.
+You can start with the receipt instead, and you can always tap an item to assign it by hand.
+Dictation listens in the language of the keyboard that is showing. To speak Chinese, switch to a Chinese keyboard first, then tap its microphone.
+
+### What is free?
+Entering receipts, on-device receipt reading, splitting by hand, saved bills, backups and sharing are all free and need no account. AI help is optional. Tongzhuo never moves money and does not collect payments from your friends.
+
+### How are currencies, tips and discounts handled?
+Choose the bill’s currency when you enter the receipt. More than 70 currencies are supported, including ones without decimals such as yen and won, and amounts can be typed with a decimal point or a decimal comma. Changing the currency never converts amounts.
+Tax, service charge, tip and a whole-bill discount are shared in proportion to what each person ate. For a discount on one dish, change that dish’s amount instead.
+
+### How accurate is receipt reading?
+On-device reading is free and works best with printed English or Chinese receipts that show prices with two decimals. AI reading handles more languages and layouts.
+Either way the result is a draft: check it against the photo. The app will not save a receipt whose items and charges do not add up to the total you confirm. AI suggestions can be wrong too, so review each one before confirming.
+
+## AI splits and purchases
+### How do AI splits count?
+One AI split covers one whole dinner. Organizing the order, reading the receipt photo and suggesting the split all count as the same one, for 24 hours from that dinner’s first AI request. Each dinner allows up to 8 organizing or splitting requests and 2 receipt photo readings; after that you can still finish by hand.
+Each App Store account gets 3 free AI splits, with no sign-in, and you can buy a pack of 10. Purchased AI splits do not expire. There is no subscription and nothing renews automatically. Open AI splits to see your balance and what the current dinner has left.
+
+### What if a request fails?
+- If a request could not be sent, or the AI service refused it, nothing is deducted.
+- If AI has reached its limit for the day, or the service is busy, nothing is deducted. Try again later, or finish by hand.
+- If a dinner’s very first request fails without any usable result, its AI split is returned, a limited number of times per account.
+- If the connection drops while you wait, do not start over. Choose Resume previous request on the same bill, and the saved answer is fetched without another charge.
+Tongzhuo never retries a paid request by itself.
+
+### My purchase is missing
+Make sure the App Store is signed in to the same account, then open AI splits and choose Refresh balance & check purchases. If no balance is shown yet, choose Show my AI splits. There is nothing to sign in to inside Tongzhuo.
+
+### How do I get a refund?
+Apple handles refunds at [Report a Problem](https://reportaproblem.apple.com/). A refunded pack is removed from your balance.
+
+## Bills, backups and new devices
+### What moves to a new device?
+- **AI split balance**: it is kept by our service. Use the same App Store account on the new device and refresh your balance as described above.
+- **Bills**: they stay on the device where you saved them. They do not sync and are not part of your phone’s backup, so restoring a backup on a new phone does not bring them back. Before changing phones or deleting the app, export them in Backup & restore, then import the file on the new phone.
+Please don’t delete the app while looking for a missing bill.
+
+### How do I delete a bill, or my online AI records?
+- **A bill**: in Saved bills, swipe left on it. Deleting the app removes them all.
+- **Online AI records**: open AI splits → Delete my online AI records. Unused AI splits are forfeited, using AI again later does not include free splits, and no refund is requested automatically.
+Bills on your device and your online AI records are separate; deleting one does not delete the other.
+
+## Language
+### How do I change the language?
+Choose 中文 or English at the top of the home screen. Dish names and people’s names are kept exactly as you enter them.
+
+### Want to know about privacy?
+See the [privacy policy](privacy.html).

@@ -1,0 +1,31 @@
+@updated 2026-11-19
+@summary Little Garden works offline, needs no account, has no ads and does not track you. Your garden stays on your device, where we cannot see it.
+
+## What we receive
+The game itself sends us nothing about you. We only receive your email address and your message if you choose to write to us.
+### When you play
+Your garden layout, your bunny’s name and habits, your garden’s name, your diary, your postcards and your sound and language settings are all saved on your device. The game has no ads, does not track you, gathers no usage statistics and has no online community.
+### When you save or share a postcard
+The game asks for permission to add to Photos only when you choose Save to Photos. It can add pictures but cannot see the photos already in your library. Without that permission you can still keep postcards in the in-game album.
+When you send a postcard or a before-and-after picture, you decide who receives it. A postcard may show the garden name you entered and the date it was taken.
+### When you export a backup
+The game creates a backup file only when you tap export in Backup & Restore. The file holds your garden layout, your bunny’s name and habits, your diary and all your postcards. You decide where to save it and who receives it; the game never sends it to us or uploads it by itself. If you keep it in a cloud drive or send it to someone, that service or person then holds it.
+@include email
+
+@include who-offline
+
+## Where it is kept and how to delete it
+### Where it is kept
+Only on your device. The game has no cloud sync; if device backup is on, the backup may include your garden. We hold no copy of your garden, so we cannot view, delete or restore it for you.
+### How to delete it
+- Delete postcards in the garden album.
+- Delete entries in the garden diary.
+- “Start from a little patch of grass” resets the garden, but keeps your bunny’s name and habits, your diary, your saved postcards and your sound and language settings.
+- Delete the game, and everything it saved on the device goes with it.
+- Delete exported backup files wherever you saved them. The copy of your previous garden that the game keeps before a restore is deleted with the game.
+- Postcards already saved to Photos or shared with others, and device backups, are managed where they are kept.
+- To see, correct or delete your emails with us, write to us from the address you used.
+
+@include children
+
+@include contact-privacy

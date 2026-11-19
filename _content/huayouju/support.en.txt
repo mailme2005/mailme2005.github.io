@@ -1,0 +1,78 @@
+@updated 2026-11-19
+@lede Every expense, backed by a receipt. Scanning, scan packs, backups and moving to a new phone, all on one page.
+@contact Please describe the problem briefly and tell us your iPhone model, iOS version and Receipted version. A screenshot helps if you have one. For purchase issues, include the Apple order reference if you can. Cover unrelated personal information in screenshots or receipts, and never send passwords, verification codes or full card details.
+
+## How to use it
+### How do I scan a receipt?
+- In Settings, turn on Claude receipt recognition, then read and accept the notice about uploading receipts.
+- Take a photo of one receipt or import one. Keep it flat and well lit, with the merchant name and final total clearly visible.
+- Check the merchant, date, currency, total, category and payment status, then tap Confirm and save.
+Recognition can make mistakes, so check the result against your receipt.
+
+### Can I use it without cloud recognition?
+Yes. Cloud recognition needs an internet connection; with it off, you can still use on-device text recognition or enter expenses by hand. You can also view, edit and export your existing expenses without buying a pack.
+
+### Which receipts and currencies are supported?
+English and Chinese receipts. Choose your default currency in Settings; you can also change it for each entry. If a date is all numbers, choose whether it reads day / month / year or month / day / year under Receipt date order in Settings.
+On-device recognition cannot read amounts without decimals, such as yen or won. For those receipts, use Claude recognition or type the amount yourself.
+Scan one purchase at a time. Bank statements, credit-card statements and refunds are not split into separate expenses automatically. Receipted does not connect to your bank, transfer money or pay bills.
+
+### How do I see other months?
+Once more than one month has records, arrows appear beside the month on the home screen. They move month by month, stopping only at months that have records. Tap Back to this month to return to the current one.
+
+### I confirmed an expense. Why didn’t my total change?
+The home total counts only expenses that are confirmed, paid and dated in the month you are viewing. If the total did not change, it is usually one of these:
+- **The payment status is Unpaid.** If you have paid, change it to Paid.
+- **The expense date is in another month.** It counts toward that month’s total; switch to that month to see it.
+- **The currency differs from your other expenses.** It is counted, but each currency has its own total line.
+If the expense will not count toward this month’s total, a note under Confirm and save explains why.
+
+## Scans and purchases
+### Does scanning cost money?
+Each App Store account starts with 10 free AI scans. If you need more, buy a one-time scan pack. There is no subscription and no automatic renewal, and free and purchased scans never expire.
+Scan packs come in 100, 200 and 300 scans. Prices are shown in your local App Store currency, and Apple’s purchase confirmation screen shows the final price. In Singapore, for example, they are S$1.98, S$2.98 and S$3.98.
+Go to Settings → Scan balance and packs to see your balance and the packs on offer.
+
+### When is a scan deducted?
+One successfully processed receipt uses one scan, even if you decide not to use the result. If processing fails or no usable total is found, the scan is returned.
+While a scan is in progress, one scan may be temporarily unavailable. If the connection drops, give the app a moment to check the result and update your balance.
+Viewing, editing, exporting or retrieving an existing result never uses another scan. Importing the same photo again may start a new scan, so check the original entry first.
+
+### What if I see “The service cannot complete this request right now”?
+Cloud recognition can pause for a while. No scan is deducted, and your receipt is kept with the on-device result so you can review and save it. The two usual cases:
+- Several scans in one day where no total could be read. Try again the next day.
+- This month’s allowance for free-trial scans, which all users share, is used up. Your free scans are kept for next month, and you can carry on straight away after buying a scan pack.
+
+### What if my scan is interrupted?
+- Keep the original entry and reconnect to the internet.
+- Open the entry and tap Check original request. This only looks up the existing result; it does not start a new scan or use another one.
+- If it is still processing, check again later rather than importing the same photo again.
+Unsaved cloud results can be retrieved for up to 24 hours. If a result is no longer available, you can complete the entry by hand; the app will not scan it again automatically.
+
+### I paid but my scans are missing
+Make sure the App Store is signed in to the same account you bought with, then go to Settings → Scan balance and packs and tap Sync balance. You do not need to buy again after a connection problem. If Apple is still approving the purchase, sync again once it is approved.
+
+### How do I get a refund?
+Request one at Apple’s [reportaproblem.apple.com](https://reportaproblem.apple.com/); Apple reviews it. Scans from a refunded pack are removed from your balance. If you had already used some of them, a later purchase may first cover the used ones.
+
+## Backups and new phones
+### How do I back up my expenses?
+In Settings, open the backup and export section and choose Save full backup. Save the file somewhere you can still reach if you lose or replace your phone. A full backup includes your expenses, receipt photos and recognition notes.
+To work with your expenses in a spreadsheet, choose Export records as CSV. A CSV has no photos and cannot restore a full backup.
+
+### How do I restore from a backup?
+Choose Restore from backup to preview and then import. Entries you already have are kept. Restored receipts are not sent for AI recognition automatically.
+
+### What about a new phone?
+- **Scan balance**: sign in with the same App Store account and your balance syncs. Reinstalling does not restart the free trial.
+- **Expenses and receipt photos**: these are saved only on your phone. Export a full backup before you switch.
+
+### Are my expenses safe if I delete the app or lose my phone?
+Not by the app itself. It keeps recent recovery copies on your phone to help repair damaged records, but they cannot protect against a lost phone or a deleted app. Save a full backup before reinstalling or troubleshooting. If you have a full backup file, or a backup of the phone itself, you can restore from that.
+
+## Language
+### How do I change the language?
+Receipted follows your phone’s language by default. In Settings you can choose 中文 or English, or select System to follow your phone again. Existing AI notes stay in the language they were created in.
+
+### Want to know about privacy?
+See the [privacy policy](privacy.html). You can also write to us to see or delete your information.

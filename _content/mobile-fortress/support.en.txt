@@ -1,0 +1,88 @@
+@updated 2026-11-19
+@lede How to drive, fight and upgrade your fortress, plus saves and settings, all on one page.
+@contact Please tell us your iPhone or iPad model, iOS version, game version and how to reproduce the problem. Screenshots are optional; cover anything private first. We will never ask for your Apple password.
+
+## How to play
+### How do I move and shoot?
+Drag one finger anywhere on the battlefield to move; lift it to stop. The cannon always fires straight ahead on its own, so steer the fortress to line enemies up. Circle along the road and keep an escape route open.
+On the home screen, pick Campaign, Endless or Daily, then tap the start button at the bottom. The first time you open the game, the home screen shows a short guide to how to play.
+
+### What are the missions?
+There are nine missions across three regions: Wasteland Road, Broken Bridge and Furnace Blockade. Each region has three kinds of mission:
+- **Break the Blockade**: survive six waves, then defeat the boss that arrives at 3:00.
+- **Elite Hunt**: eliminate six gold-marked targets within 3 minutes.
+- **Destroy the Turrets**: destroy three gun emplacements within 3 minutes. Each one stops bombarding you once destroyed.
+Clear missions in order to unlock the next. Choose any unlocked mission from Choose mission on the Campaign tab.
+
+### What is Endless Breakout?
+It unlocks after mission 3. The waves never end: every 4 regular waves bring a boss fight, then the next region, and enemies grow stronger each wave. Elites and a turret appear in the later waves of each round for bonus points. Each wave offers a field upgrade.
+Kills pay half the campaign’s alloy, plus bonuses for each wave and boss. Field support is available, but your record counts from the first time you were destroyed.
+
+### What is the Daily Challenge?
+It unlocks after mission 1. Each day, resetting at 00:00 UTC, everyone gets the same mission, cannon and daily modifier, on the same Lv.5 armor and cannon whatever their own upgrades. Field support is off. Retry as often as you like; your result is your clear time.
+Your first clear each day pays 80 alloy, plus 10 for each consecutive day, up to 140. Missing a day resets the streak; your best streak is kept.
+
+### How do I earn medals?
+Each mission has three medals, 27 in total. They can be earned in separate runs.
+- **Cleared**: complete the mission.
+- **Bombproof**: clear it without taking artillery damage.
+- **Swift Clear**: finish quickly. Defeat the boss within 4:00, or finish other missions within 2:00.
+
+### What do the warnings mean?
+- Leave the marked artillery strip before the shells land.
+- Dodge sideways from a charger’s long red line.
+- Leave the boss’s fan-shaped aim lines and red bombardment circles before the attack lands.
+- Reinforcement warnings show where new enemies will enter.
+Every warning has a shape, a caption and its own sound.
+
+### How do field upgrades work?
+In campaign missions and the Daily Challenge you get six free upgrade opportunities per run; in Endless Breakout you get one every wave. Tap one of the three icons at the lower right; the fight does not pause. Unused opportunities stay available until the run ends. Field upgrades cost no alloy and last one run.
+Each new opportunity also gives you one 1.2-second shield: it triggers when you lift your finger, or when you choose if you are already stopped. Lifting or choosing again does not refresh it, and shields do not add up.
+When a base upgrade reaches the required level, an advanced mod can appear as a green-star option: Penetrator Core, Aftershock or Mobile Reload.
+
+### Which cannons are there?
+- **Autocannon**: fires rapidly at single targets.
+- **Piercing Cannon**: passes through up to three enemies. Unlocks after mission 1.
+- **Blast Cannon**: slower, explosive shells. Unlocks after mission 3.
+Switch cannons on the Fortress page before any run. Permanent cannon upgrades apply to all three.
+
+### What is alloy for?
+Alloy is the game’s only currency. It is earned only by playing and cannot be bought. The game is free, with no ads and no in-app purchases.
+- Kills earn alloy, which is banked automatically, even on defeat. Clearing a mission adds a bonus, and the first clear of each mission adds a one-time extra.
+- On the Fortress page, opened from the home screen, spend alloy on permanent armor and cannon upgrades, ten levels each.
+- Levels 5 and 10 unlock extra effects. Armor: a launch shield, then 10% less damage taken. Cannon: faster fire, then +25% damage to bosses, elites and turrets.
+- Alloy also buys six fortress paints. Paints only change how your fortress looks and can be switched freely once bought.
+
+### What is field support?
+Both kinds are optional, and every mission can be cleared without them. Field support is not available in the Daily Challenge.
+- **Emergency repair**: when your health falls below 30% and you have enough alloy, a button appears at the lower right. 40 alloy restores 40% health with a 2-second shield, once per run.
+- **Field restart**: if your fortress is destroyed, spend alloy to carry on with half health, a 3-second shield and a shock wave that clears nearby regular enemies. It costs 60 the first time and 120 the second, at most twice per run. Alloy earned in the run is kept.
+Running out of time cannot be restarted. Choosing End run settles the run as usual.
+
+## Game Center
+### Do I need Game Center?
+No, it is optional, and everything else works the same without it. If your device is signed in, the game reports 36 achievements, including all 27 medals, and two leaderboards: Endless Breakout best score and Daily Challenge time. Medals you earned before signing in are reported automatically.
+Tap the Game Center button at the top of the home screen to see your status and open achievements or leaderboards. To sign in, go to Settings › Game Center on your device.
+
+## Progress and saves
+### Is my progress kept if I quit a run or update the game?
+Quitting a run banks the alloy you earned, but the fight does not resume from the same spot. Updating the game keeps your progress.
+
+### Will my progress survive a new device or deleting the game?
+There is no cloud save and no remote recovery, so deleting the game deletes your progress. Please don’t delete it while troubleshooting.
+
+### What if saving fails or the save is damaged?
+If saving fails, free up some storage and tap Retry save. If the save is damaged, tap Export original save first, then tap Start a new campaign; a copy is kept on your device.
+
+## Sound, language and system requirements
+### No sound?
+Check your device’s Silent mode and volume, then open Game settings on the home screen. Music and effects have separate sliders; 0% mutes that one. After returning to the game, an interruption or unplugging headphones, you may need to tap Resume or start a new run.
+
+### How do I change the language?
+Open Game settings, the gear at the top right of the home screen, and choose English or Simplified Chinese. You can also switch in the pause menu. Your choice is saved on this device. On first launch the game follows your device language.
+
+### Which devices are supported?
+Mobile Fortress runs on iPhone and iPad with iOS 18 or later.
+
+### Want to know about privacy?
+See the [privacy policy](privacy.html).

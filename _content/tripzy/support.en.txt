@@ -1,0 +1,54 @@
+@updated 2026-11-19
+@lede Tell Tripzy where you’re going, when, and how you like to travel, and get a realistic day-by-day plan in minutes.
+@contact To help us help you faster, include your app version and device model. You’ll find both in the app under Send Feedback.
+
+## How to use it
+### How long can a trip be, and how long does planning take?
+Trips can be up to 21 days. Planning usually takes a few minutes. For the best result, keep Tripzy open until your plan is ready.
+
+### Can I make the plan more personal?
+Yes. When you plan a trip, open Must-sees, hotel and food to add places you must see, a hotel you’ve already booked, a food preference (vegetarian, vegan or halal) and, on a family trip, the age of your youngest child. These are all optional.
+
+### Can Tripzy choose the cities for me?
+Yes. Enter a country as your destination, and Tripzy asks how you’d like to explore it: A few cities, One base, with day trips, or Suggest for me. Tripzy then picks the stops and splits your days between them.
+
+### Can I share or print my plan?
+Yes. Open a trip and use Export PDF to create a travel guide you can print or share. To share from your trip list, press and hold a trip and choose Share.
+
+### How do I delete a trip?
+On your trip list, press and hold the trip and choose Delete. Trips are saved on your device, so deleting a trip removes it from that device.
+
+### Can I use Tripzy on my iPad?
+Yes. Tripzy works on both iPhone and iPad.
+
+## Credits and purchases
+### How do credits work?
+Tripzy uses credits instead of a subscription.
+- A trip of up to 5 days uses 1 credit.
+- 6 to 10 days uses 2 credits.
+- 11 to 21 days uses 3 credits.
+New users receive free credits to get started, once per Apple Account. You can buy packs of 3, 10 or 20 credits in the app at any time.
+
+### What happens if my trip can’t be created?
+Credits are used only for a plan you receive. If something goes wrong while your trip is being planned, the credits set aside for it are returned to your balance automatically. If they don’t come back, email us and we’ll help.
+
+### How do I get a refund?
+Purchases are made through Apple, so Apple handles refunds. Request one at [reportaproblem.apple.com](https://reportaproblem.apple.com).
+
+## New devices and older versions
+### I have a new iPhone or iPad. Will my credits and trips move?
+Your credits will. Install Tripzy on the new device while signed in to the App Store with the same Apple Account, then open it, and your credits are reconnected automatically. Trips are saved on each device, so trips from your old device don’t move across.
+
+### Is this the same app as Tripzy 3?
+Yes. Tripzy 3: Beyond Boundaries is now called Tripzy: AI Trip Planner. It’s the same app: your saved trips and credits stay as they are, and there’s nothing to reinstall.
+
+### I used the original Tripzy! app. What now?
+The original subscription-based Tripzy! has been retired. It’s no longer on the App Store, and its Pro and Pro+ subscriptions can no longer be bought or renewed. Please use Tripzy: AI Trip Planner for new trips. It’s a separate app with no subscription: you buy credits only when you need them, and new users receive free credits to get started.
+If the original app is still on your device, you can keep opening it to view the trips saved there. Trips can’t be moved between the two apps.
+
+## More
+### Where can I get the app?
+[Get Tripzy on the App Store](https://apps.apple.com/app/id6756862118). Use of the app is covered by [Apple’s standard terms of use](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
+
+### Want to know about privacy?
+You don’t need an account, name or email address, and your trip details are used only to plan your trip. See the [privacy policy](privacy.html) for the full details.

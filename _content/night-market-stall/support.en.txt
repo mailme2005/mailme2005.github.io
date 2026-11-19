@@ -1,0 +1,53 @@
+@updated 2026-11-19
+@lede A little light, a warm skewer. How to play, saves and settings, all on one page.
+@include support-contact
+
+## How to play
+### How do I grill a skewer?
+Look at the customer’s order card to see which skewer they want. Drag the matching skewer from its plate onto an empty grill spot, or tap the ingredient and then tap an empty spot. Tapping an ingredient on its own only selects it.
+When the button turns green, tap Flip. When it turns green again, tap Serve. If you pick the wrong ingredient or miss the grill, the skewer goes back to its plate and you don’t lose any coins. When two customers are waiting, tap an order card to choose who to cook for.
+Your first order of each shift can’t burn, and customers never walk away because they’ve waited too long.
+
+### What if a skewer burns?
+Once a side is cooked, you have a few seconds before it burns. If it does, tap Clear Grill, then choose a fresh skewer. The Steady-Heat Grill upgrade gives you a little more time before food burns.
+
+### How long is a shift, and when can I close up?
+Each shift gives you 90 seconds of cooking time. Pausing and serving animations don’t count against it. Once you reach the night’s goal, tap Close & Claim to collect your reward, or keep cooking until time runs out. Missing a goal never costs you coins, and you keep everything you’ve earned.
+
+### How do the nine nights unlock?
+The game has nine nights. They’re chapters in the game, not real days, so you can play the next one right away. To unlock the next night, complete 3 orders, or stay open for 60 seconds and complete at least 1 order.
+You can replay any unlocked night from the Neighborhood Journal. Each night’s goal reward can be claimed only once.
+
+### What changes from night to night?
+- You start with one grill spot, and a second opens on Night 3.
+- From Night 4, you can try an optional challenge: serve three perfectly grilled skewers in a row to earn 15 bonus coins.
+- From Night 8, some customers order two skewers of the same kind. Cook them one at a time or use both grill spots; the order card shows how many you’ve served.
+- From Night 9, customers can arrive in pairs, with a short break after each pair. You’ll never have to handle two double orders at once.
+
+### How do I get neighbor stories and keepsakes?
+A-He and A-Lan each have a three-part story. Complete their order during a shift, then close up to hear the next part. There’s no need to stop and tap through conversations. After the third part, you’ll receive a keepsake: a Little House Lamp or a pot of Balcony Mint. When the same neighbor has visited on three nights, they leave you a note, and the first note comes with a Neighborhood Wind Chime.
+Reread their stories in the Neighborhood Journal, or tap a keepsake on display. If you open a story during a shift, cooking pauses until you tap Keep Cooking. You can display or put away keepsakes in Decorate Your Stall.
+
+### What are coins for?
+Coins are earned only by playing and have no cash value. There are no ads and no in-app purchases.
+Spend coins on decorations and two upgrades, each with three levels: the Steady-Heat Grill adds a second before food burns at each level, and the Glowing Sign earns 1 more coin per skewer at each level. Decorations you own can be displayed or put away at any time for free.
+
+## Progress and saves
+### What happens if I leave mid-shift?
+The game pauses and saves automatically when you leave. When you return, tap Keep Cooking. Nothing on the grill cooks while you’re away.
+
+### Will my progress survive a new phone or deleting the game?
+Your progress is saved only on this device, and there is no cloud sync. Deleting the game deletes your progress, so please don’t delete and reinstall it as a first troubleshooting step.
+
+### What if my save can’t be loaded?
+The game keeps your original save on this device and starts a new one. Deleting the game also deletes that copy, so please don’t delete it. Email us and describe what happened. We can’t see your save remotely, so we can’t promise to recover it.
+
+## Sound and language
+### No sound, or want the music off?
+The game follows your device’s Silent mode. Check the Silent switch and the volume, then open Settings from the home screen or the pause screen and check Volume. You can adjust Background Music and Sound Effects separately, or tap Mute All or Restore Default Volume. Sound stops when the game is in the background.
+
+### How do I change the language?
+The game is available in English and Simplified Chinese. Tap Language on the home screen, or open Settings from the home or pause screen, then choose English, 简体中文 or System. The change takes effect right away, with no restart, and the game remembers your choice. If your device uses another language, System shows English. Your coins, decorations and story progress stay the same in either language.
+
+### Want to know about privacy?
+No account or sign-in is needed, and the game collects no personal information. Read the full [privacy policy](privacy-en.html), or view it offline in the game under Privacy & Support.

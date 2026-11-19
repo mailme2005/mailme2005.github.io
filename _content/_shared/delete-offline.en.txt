@@ -1,0 +1,4 @@
+### How to delete it
+- Delete the game in your device’s Settings, and everything it saved on the device goes with it. Offload App keeps the data.
+- A copy inside a device backup is managed in your backup settings.
+- To see, correct or delete your emails with us, write to us from the address you used.

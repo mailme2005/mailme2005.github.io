@@ -1,0 +1,57 @@
+@updated 2026-11-19
+@summary Tongzhuo works without an account, and your bills stay on your device. AI help is optional: only after you give permission does the app send what you typed, the bill details or a receipt photo to our service and on to Anthropic’s Claude. There are no ads and no tracking.
+
+## What we receive
+Until you first use online AI, or ask to see your AI balance, the app does not contact our service at all. After that, it checks your AI balance with our service each time it opens; this never includes anything from your bills.
+### When you split bills by hand
+Nothing from your bills leaves your device. Your bills, the names or nicknames of the people at the table, what each person ordered, the splits you confirmed and the text you typed are all saved on the device. Reading a receipt on the device does not upload the photo. If you dictate with your keyboard’s microphone key, the keyboard handles the speech under its own terms and Tongzhuo only receives the resulting text.
+### When you use AI to organize an order or suggest a split
+The app asks for your permission before the first request. After you agree, it sends the following through our service to Anthropic’s Claude:
+- The text you typed and your answers to follow-up questions.
+- Dish names, the nicknames of the people at the table and who is speaking, and the order recorded so far.
+- Once a receipt is attached: the items, amounts, currency, tax, service charge, tip and discount you reviewed, and the splits you already confirmed.
+This is used only to organize the order, suggest a split and ask about anything unclear. Please use nicknames and leave out anything sensitive that is not needed.
+### When you use AI to read a receipt photo
+This needs a separate permission. The app first shrinks the photo and strips hidden details such as where it was taken, then sends it through our service to Claude. Our service does not keep the photo. Cover personal or payment details you don’t need before taking the picture.
+### When you use free AI splits or buy more
+There is nothing to sign in to: your App Store account is your account. The app shows our service a certificate issued by Apple confirming that your App Store account installed Tongzhuo. We keep only a reference number derived from it, which does not tell us who you are. We never receive your Apple ID, name or email address.
+To deliver what you bought, handle refunds and make sure the same purchase is not counted twice, we also keep your free and purchased AI split balances, a random reference that ties a purchase to your account, and for each purchase a transaction reference and whether it was refunded. Apple handles the payment, and we never receive card numbers.
+### Permissions
+Camera access is optional and used only when you photograph a receipt. The app does not ask for your contacts or location, and the App Store version does not record audio.
+### When you contact us
+We receive your email address, your message and any files you attach, and use them to reply, solve the problem and handle your request. We keep emails only as long as needed for support, follow-up or legal obligations.
+
+## Who helps handle it
+- **Anthropic** runs Claude, which works on the AI requests you send. We do not send Anthropic your account reference.
+- **Google Cloud** runs our service and keeps its records. The servers are in Singapore.
+- **Apple and Google** check that each request comes from the genuine app, to prevent abuse.
+- **Apple** also delivers the app and handles payments.
+- **Email (Gmail)** is used only when you write to us.
+- **This website** has no ads and no analytics scripts. Its host, GitHub, may keep basic visit records such as IP addresses.
+While providing their services, these companies may handle IP addresses, device or app information and security records under their own policies. Some of that may happen outside your country.
+> Their own policies: [Anthropic’s retention policy](https://privacy.claude.com/en/articles/7996866-how-long-do-you-store-my-organization-s-data) and [data practices](https://platform.claude.com/docs/en/manage-claude/api-and-data-retention) · [Firebase](https://firebase.google.com/support/privacy) · [Google](https://policies.google.com/privacy) · [Apple](https://www.apple.com/legal/privacy/) · [GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
+
+## Where it is kept and for how long
+### On your device
+Saved bills live only on your device. Tongzhuo has no cloud sync for bills and cannot recover them for you. The app also keeps up to three recovery copies, and a record of unfinished AI requests so interrupted work can be resumed. While you are checking a receipt, its photo and your draft are kept on the device; the photo is removed once the checked receipt is saved. If you leave before finishing, the draft and its photo stay until you finish or delete it. These files are not included in backups of your phone, whether to iCloud or to a computer. Anything you export or share goes only where you send it.
+### On our service
+- **Each dinner that uses AI**: how many requests it has used and when its 24 hours end.
+- **Each AI request**: its status and the answer that came back, so an interrupted request can be recovered and is not charged twice. The answer contains the organized order (dish names, the nicknames of the people at the table and who had what), the suggested split, or the items and amounts read from a receipt photo. The text you typed and the receipt photo itself are not kept by our service.
+- **How long**: request results and expired dinner records are removed about 7 days later, allowing up to one more day for the daily cleanup. Balances and purchase records are kept for as long as needed to honor what you bought and prevent the same purchase being credited twice.
+### At Anthropic
+Anthropic says it normally deletes what is sent to Claude, and its replies, within 30 days, except where the law, safety enforcement or a separate agreement requires otherwise.
+
+## Your choices and how to delete
+- **Turn AI off**: withdraw your permission under AI splits. This stops further requests but cannot recall one already sent. Everything can still be done by hand.
+- **Delete one bill**: open Saved bills, swipe left on it and choose Delete. It is also removed from the recovery copies on the device. Backup files you exported yourself are not changed.
+- **Delete everything on the device**: delete the app in iOS Settings. Offload App keeps the data.
+- **Delete your online AI records**: open AI splits → Delete my online AI records. Your online request content and usable balance are deleted, and unused AI splits are forfeited. The app also withdraws your AI permission and stops contacting our service until you use AI again. A minimal record that the free splits were claimed, and of your purchases, is kept so they cannot be claimed or credited again.
+- **Ask us**: depending on where you live, you may have the right to see, correct or delete your information, to object to or limit its use, and to complain to your local data protection authority. Email us to make a request; we may need to confirm it is you, and we will explain anything we must keep.
+We handle AI request content only with the permission you give in the app. We keep account, balance and purchase records to provide the AI splits you obtained, and a small amount of security information to keep the service safe and fair. We do not use your information for advertising or profiling, and we do not sell it.
+
+## Children
+Tongzhuo is not aimed at children, and online AI is not meant for anyone too young to agree to data handling where they live. A parent or guardian who believes a child has sent us personal information can write to us to have it removed.
+
+## Contact us
+For any privacy question, email {email}.
+Tongzhuo is published by Little Everyday Apps (Guan Jie Tan). Before any important change to how information is handled, we will update this page and the notices inside the app.

@@ -1,0 +1,55 @@
+@updated 2026-11-19
+@summary Receipted keeps your expenses and receipt photos on your phone. Receipts go to the cloud for recognition only after you turn on Claude receipt recognition and agree. The app has no ads, does not track you and does not sell your information.
+
+## What we receive
+### When you keep everything on your phone
+Receipt photos, recognized text, your expenses (merchant, date, amount, currency, category) and their review and payment status are saved on your phone. Your phone’s own text recognition runs on the device. While Claude receipt recognition is off, receipts are not uploaded.
+### When you use AI recognition
+- Before you turn on Claude receipt recognition, the app asks for your consent.
+- Once it is on, new receipts you photograph or import are sent to our service and on to Anthropic’s Claude, which extracts and organizes the expense. What is sent is a compressed image of the receipt and the text recognized on your phone.
+- A receipt may show names, addresses, purchased items, membership numbers and payment information. Hidden details attached to the photo, such as where it was taken, are not uploaded, but everything visible on the receipt is sent.
+- You can turn it off in Settings at any time. That stops new uploads but cannot recall what was already sent. You can keep using on-device recognition and manual entry.
+### Scan balance and purchases
+You do not need a Receipted account. Each time the app opens, it asks our service for your remaining scans and includes a proof issued by Apple to confirm which account it is. So even if you never turn on Claude recognition, we keep:
+- A reference number that corresponds to your App Store account. It is not your name, email address or Apple password.
+- Your remaining free and purchased scans.
+- Records of purchases, deliveries and refunds.
+Apple handles the payment, and we never receive your card number.
+### Camera and photos
+The camera is used only when you choose to photograph a receipt. When you import a photo, the app gets only the pictures you pick. The app never asks for your contacts, location or microphone, and it does not connect to your bank.
+### When you contact us
+We receive your email address, your message and any files you attach, and use them to reply, solve the problem and handle your request. Before sending a receipt or screenshot, please cover unrelated personal information. We delete emails once the matter is closed and they are no longer needed.
+
+## Who helps handle it
+- **Anthropic** recognizes the receipts you submit to Claude.
+- **Google Cloud** runs our service and keeps the records listed under “In the cloud” below. The servers are in Singapore.
+- **Apple** delivers the app and handles payments.
+- **Email (Gmail)** is used only when you write to us.
+- **This website** has no ads and no analytics scripts. Its host, GitHub, may keep basic visit records such as IP addresses.
+While providing their services, these companies may handle IP addresses, device information and security records under their own policies. Some of that may happen outside your country or region.
+> Their own policies: [Anthropic](https://www.anthropic.com/legal/privacy) · [Google Cloud](https://cloud.google.com/terms/cloud-privacy-notice) · [Google](https://policies.google.com/privacy) · [Apple](https://www.apple.com/legal/privacy/) · [GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
+
+## Where it is kept and for how long
+### On your phone
+Your expenses and original receipt photos stay on your phone. They are not synced to our cloud, and we cannot restore them for you. The app keeps up to five recent recovery copies on the phone, plus the progress of unfinished scans. If device backup is on, the backup may include all of this.
+### In the cloud
+- **Receipt images and text**: our service only passes them on and does not keep them. We keep a short check code calculated from what you submitted, so we can recognize a repeat submission; it cannot be turned back into the receipt.
+- **Recognition results** can be retrieved for up to 24 hours, so you can get them back after a lost connection. Once your phone has saved them, it tells our service to delete them, which normally happens right away; results that reach 24 hours are cleaned up automatically. This is not a backup of your expenses.
+- **Usage records** cover each scan’s reference, time, whether it succeeded, whether it used a free or purchased scan, and its cost. They prevent double charges and help us fix problems and manage balances. We keep these records until you ask us to delete them.
+- **Access records**: like most online services, our servers record the time and IP address of each request, for security and troubleshooting.
+- **Balance and purchase records**: scans never expire, so we also keep the account reference and the trial, balance and purchase records. Deleting the app does not erase them or restart the free trial. If you ask us to delete them, we will keep only what purchases, disputes, abuse prevention or the law require, and tell you what that is.
+### At Anthropic
+Anthropic states that what is sent to Claude, and its replies, are normally deleted within 30 days; some information may be kept longer for safety, legal or similar reasons. This kind of data is not used to train models by default. See Anthropic’s [retention policy](https://privacy.claude.com/en/articles/7996866-how-long-do-you-store-my-organization-s-data) and [model training policy](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training).
+
+## How to delete it
+- **Expenses on your phone**: delete them in the app. Deleted expenses and photos may remain in the recent recovery copies until those are replaced.
+- **Everything on your phone**: delete the app. Offload App keeps the data. Photos already in your photo library, exported files, copies you shared and device backups are managed where they are kept.
+- **Cloud records and emails**: write to {email} to ask to see, correct or delete them. We may need to confirm the account or purchase is yours, and we will explain how it affects your remaining scans and which records must be kept because of purchases, disputes, abuse prevention or the law. Please don’t send your Apple password or verification codes.
+Deleting an expense does not request a refund. Where you save or share exports and backups is up to you; a full backup contains your expenses and original receipt photos, so keep it safe.
+
+## Children
+If a child has given us personal information, a parent or guardian can write to us for help or to have it deleted.
+
+## Contact us
+For any privacy question, email {email}.
+Receipted is published by Little Everyday Apps (Guan Jie Tan). If this policy changes, we will update this page and the date above. Important changes to how information is handled will also be explained in the app, and we will ask for your consent again where needed.

@@ -1,0 +1,62 @@
+@updated 2026-11-19
+@lede A little help for your little garden, from placing your first flowers to moving your garden to a new device.
+@include support-contact
+
+## How to play
+### How do I arrange my garden?
+In Place, choose a material and tap on grass to place it, or hold and drag to preview a position before releasing. The preview shows whether it fits there.
+In Adjust, select an object to rotate, resize, mirror or copy it.
+
+### How do I draw paths and ponds, or make the garden bigger?
+Use the Paint brushes to draw paths, ponds and grass, and adjust the brush size. Paint grass along an edge and the garden grows little by little, up to nine times its starting size.
+
+### Can I undo a mistake?
+Yes. Undo and redo keep up to 50 steps. The history is not kept after you close and reopen the game.
+
+### How do I name my bunny and play with it?
+You can name your bunny on the companion card when you first meet, or skip it. Later, choose Rename your bunny in Bunny. Names can be 1 to 12 characters.
+In Bunny, tap open ground to call your bunny over, or tap your bunny to pet it. It also wanders, sniffs flowers and rests on its own.
+
+### Do plants and my bunny grow? Do I need to play every day?
+They grow slowly, and you never need to play every day. A new flower opens up in about a week and first blooms in about two; a small tree takes about a year. They keep growing while you are away, and your bunny grows up over the days you spend together. There are no check-ins or countdowns, and nothing is lost if you come back a few days later.
+To keep a plant looking the way it does now, select it in Adjust.
+
+### Do I have to finish the bunny’s little wishes?
+No. Wishes are only ideas for decorating. They have no deadline and no daily duty, and every tool and object stays available. Tap “…” at the top right and open Little bunny wishes to try another wish or turn off Show little wishes.
+
+### Can I change the time of day or the weather?
+Tap the time label above the garden, for example “Afternoon”. Choose Morning, Afternoon or Night, or Follow local time. You can also start a drizzle, which clears by itself after a few minutes. Weather only changes the mood and never harms your plants.
+
+### What is the garden diary?
+Small things that really happened in your garden, such as your bunny’s first visit to the water. Tap “…” at the top right and open Garden diary. You can delete any entry you don’t want to keep.
+
+### How do I save or share a postcard?
+Tap Take a garden postcard, take and save it, then choose Save to Photos or Export or share. On smaller screens the camera may be inside the View and camera menu.
+The first time you save to Photos, the system asks whether the game may add photos. If you say no, the postcard still stays in the garden album, and you can change your answer later in iOS Settings.
+The garden album holds up to 60 postcards. When it is full, save the ones you want to Photos and delete a few.
+
+## Progress, backups and new devices
+### How is my garden saved?
+Your garden is saved automatically on this device when you finish editing and when you leave the game. Postcards are kept separately in the in-game garden album.
+The game needs no account and works offline. It has no cloud sync, so your garden does not appear on another device by itself. To move it or keep a spare copy, export a backup file from Backup & Restore.
+
+### How do I back up my garden or move it to a new device?
+Tap “…” at the top right, choose Backup & Restore, then Export full backup. Your garden, your bunny’s name and habits, your diary and all your postcards are saved in one file, and you choose where to keep it. On the new device, install the game, open the same page, tap Import from Files, pick that file and confirm.
+Backups are manual and do not update themselves, so export a new one after your garden changes. Restoring replaces the current garden rather than merging; before it does, the game keeps one copy of the garden you had on this device. Sound and language settings are not part of a backup.
+
+### Will my garden survive deleting the game?
+Deleting the game also deletes the garden, diary and album on this device. Export a full backup first and keep it somewhere outside the game, such as iCloud Drive or another device. A backup left in the game’s own folder in the Files app is deleted together with the game.
+Postcards you saved to Photos stay, but a postcard is only a picture and cannot bring a garden back. For that you need a backup file.
+
+### What does “Start from a little patch of grass” remove?
+It only replaces your current garden with an empty patch of grass. Your bunny’s name and habits, your diary, your saved postcards and your sound and language settings stay. If you tapped it by mistake, Undo brings the garden back right away, but not after you close the game.
+
+## Sound and language
+### Why is the game silent?
+Check your device’s silent setting and volume, then see whether Mute garden is on in Garden sounds. With Nature only on, you hear nature sounds without music. Garden music also makes room while you play music or a podcast. After unplugging headphones, tap Resume sound in the sound panel.
+
+### How do I switch languages?
+Tap “…” at the top right, find “中文 / English”, and choose Chinese, English or Follow System. Switching languages does not reset your garden or change your bunny’s name.
+
+### Want to know about privacy?
+Your garden is saved only on your device, and we hold no copy. See the [privacy policy](privacy.html) for the full details.

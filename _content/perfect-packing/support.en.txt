@@ -1,0 +1,42 @@
+@updated 2026-11-19
+@lede Drag, rotate and pack for every trip. How to play, progress and settings, all on one page.
+@contact Please tell us your device model, system version, game version and what went wrong. A screenshot helps if you have one. You’ll find the game version under Journey → Privacy & About. Don’t send passwords or personal details we don’t need.
+
+## How to play
+### How do I place and rotate items?
+Drag an item into the suitcase and release to place it. On iPhone, swipe the item tray left and right to browse, and drag upward to pick an item up.
+Double-tap an item to rotate it 90° clockwise. If it cannot fit or turn, it stays where it was. You can also tap an item, tap a spot in the suitcase, use Rotate if needed, then tap Place Here.
+The ? button opens How to Play at any time.
+
+### Can I undo, remove or restart?
+Yes to all three. Undo takes back your last step since you opened the level. Select an item already in the suitcase to Remove it. Restart clears only this level’s arrangement; your completed levels and stickers are kept, and Restart itself can be undone.
+
+### How do hints work?
+Hints come in three steps: the first explains the idea, the second points to the key item, and the third shows where it goes or what to adjust. The next step appears only when you ask for it, and hints never place items for you. Sometimes a hint suggests moving an item you have already placed.
+
+### Everything is in. Why isn’t the level complete?
+Some levels have an extra rule, shown on the rule card at the top:
+- In the Neighbors challenge, the camera bag and scarf must share a cell edge. Touching at a corner does not count.
+- In the two-sided suitcase, an item cannot sit across the hinge in the middle.
+- Levels that show “Spare cells” don’t need to be filled completely.
+
+### Where are the three bonus challenges?
+Tap Journey at the top right (on iPhone, the icon with four small squares), then open Travel Extras. The three challenges practice dividers, neighboring items and the two-sided suitcase. You can play them at any time, and each keeps its own completion record.
+The main journey has nine levels in three chapters, with three travel stickers to collect.
+
+## Progress and saves
+### How is my progress saved?
+Every valid move is saved automatically on this device, with no account and no cloud sync.
+
+### Will my progress survive a new phone or deleting the game?
+If you set up your new phone from a backup of your old one, your progress usually comes with it. If you set it up as new, you’ll start from the beginning. Deleting the game deletes your progress, and we have no copy to restore.
+
+## Sound, language and more
+### How do I adjust the sound?
+Tap the gear button to open Game Settings. Background Music and Sound Effects each have their own switch and volume. Sound follows your device’s Silent setting and pauses when you leave the game. If sound stops after you unplug headphones, go back to the sound settings and turn music on again, or preview a sound.
+
+### How do I change the language?
+Tap 中文 / English on the home screen, or the gear button, to open Game Settings. Choose Use Device Language, 中文 or English. The change is immediate, and your current arrangement, undo history and progress stay as they are.
+
+### Want to know about privacy?
+See the [privacy policy](privacy-en.html). You can also read it offline in the game: tap Journey, then Privacy & About.
