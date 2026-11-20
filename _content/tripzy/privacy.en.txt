@@ -1,4 +1,4 @@
-@updated 2026-11-19
+@updated 2026-11-21
 @summary You don’t need an account, name, email address or password to use Tripzy. To create a plan, your trip details are sent to our service and to the companies listed below, including an AI service; our servers keep them for no more than about two days. Trips you save stay on your device. There are no ads, and we don’t sell your information or track you.
 
 ## What we receive
@@ -6,6 +6,10 @@
 - **Trip details**: where you’re traveling from and to, your dates, travel style, interests, timing choices and any notes you add.
 - **Optional personal details**: places you must see, a hotel you’ve booked, a food preference (vegetarian, vegan or halal) and the age range of the youngest child traveling with you. You can leave all of these blank.
 A halal food preference may reveal religious beliefs. We use it only to plan meals for that trip, and only if you choose to add it. By adding it, you agree to that use. You can plan without it at any time.
+### When you plan a weekend outing
+- **Your family details**: your children’s ages in months, nap time, how you get around and whether you use a stroller. The app works out the ages from the birth month and year you enter; the birth months themselves stay on your device.
+- **The outing**: the day, the part of the day, the area you start from and a rain-or-dry hint from the weather forecast. We use only the centre of the area you choose, never your address or your precise location.
+Your family details and the plans you save stay on your device. You can delete them in the app.
 ### In the background
 - **An anonymous account**: the app creates a random account number the first time you open it. It isn’t linked to your name or email address.
 - **Security checks**: confirmation that requests come from a genuine copy of the app on a genuine Apple device.
@@ -24,14 +28,17 @@ Your name, precise location, contacts, photos or advertising identifier. The app
 We share information only with the companies that help us run the app, and only what they need for that work. They may use it only to provide their services to us, and they must protect it at least as well as this policy describes.
 - **Google Cloud (Firebase)** hosts our servers and stores and handles the information described above.
 - **Google Gemini**, the AI service, receives your trip details, including any optional personal details, to create your itinerary. Under Google’s terms for paid use, this information isn’t used to improve Google’s products. Google may keep it for a limited time to detect abuse.
-- **Google Maps and Apple Maps** receive the places you type or choose, including must-see places and a booked hotel, to suggest places, check that they exist and plan routes.
+- **Google Gemini** also receives your weekend outing details (your children’s ages, nap time, how you get around and the kinds of places nearby) to choose and order the stops of a weekend plan.
+- **Google Maps and Apple Maps** receive the places you type or choose, including must-see places and a booked hotel, to suggest places, check that they exist and plan routes. For a weekend plan, Apple Maps finds the centre of the area you choose, and Google Maps receives that point and the plan’s places to work out travel times.
+- **Singapore’s National Environment Agency**, through data.gov.sg, provides the weather forecast for weekend plans. The app asks for the public forecast directly and sends no personal information, though, as with any website, the service can see your device’s internet address.
 - **Apple** handles your purchases and confirms them to us.
 These companies may handle your information in countries other than your own, including the United States, where data protection laws may differ. Where the law requires it, these transfers are protected by safeguards such as the standard contractual clauses that our providers offer.
 We may also disclose information if the law requires it, or to protect the rights, safety or security of our users, the public or Tripzy. We don’t sell personal information or share it for targeted advertising.
 
 ## Where it is kept and for how long
 - **Trips saved in the app**: on your device until you delete them or remove the app, subject to your device’s backup settings.
-- **Trip details and generated plans**: up to 24 hours on our servers, so that a retried request returns the same plan. Deletion can take up to one more day.
+- **Your family details and saved weekend plans**: on your device until you delete them or remove the app.
+- **Trip details, weekend outing details and generated plans**: up to 24 hours on our servers, so that a retried request returns the same plan. Deletion can take up to one more day.
 - **Credit and purchase records**: as long as needed to provide the service, prevent double grants, resolve disputes and meet accounting and legal requirements.
 - **Security and usage-limit records**: short periods only.
 - **Feedback and support messages**: as long as needed to respond and improve the app.
@@ -41,6 +48,7 @@ We protect information with encrypted connections, checks that requests come fro
 ## Your choices and how to delete
 ### In the app
 - Delete saved trips.
+- Delete your family details and saved weekend plans, under Privacy and data.
 - Leave the optional personal details blank.
 - Turn off anonymous usage totals.
 - Turn off notifications in iOS Settings.
@@ -48,7 +56,7 @@ We protect information with encrypted connections, checks that requests come fro
 Depending on where you live, you may have the right to see your information or receive a copy, to correct or delete it, to limit or object to how we use it, to withdraw your consent at any time, and to complain to your local data protection authority.
 To make a request, email us. Because Tripzy doesn’t ask for your name or email address, we may need some details from the app on your device to find your information safely. We aim to reply within 30 days, and we won’t treat you differently for using your rights. We may keep limited information where the law requires it, or for security, fraud prevention or accounting.
 ### What we use it for
-- To plan your trips. This is the service you ask us for.
+- To plan your trips and weekend outings. This is the service you ask us for.
 - To run credits and purchases: checking purchases, keeping your balance, restoring credits and preventing double grants. This is needed to provide the service and for our accounting and legal obligations.
 - To keep the service secure and reliable: preventing fraud and misuse, enforcing usage limits and fixing problems. We rely on our legitimate interest in running a safe service.
 - To improve the app, using anonymous usage totals and the feedback you send. We rely on our legitimate interest in improving the app, and you can turn usage totals off.
@@ -56,7 +64,7 @@ To make a request, email us. Because Tripzy doesn’t ask for your name or email
 The AI service only suggests a trip plan, which you are free to use or ignore. We don’t make automated decisions about you that have legal or similarly significant effects.
 
 ## Children
-Tripzy is for adults planning trips and isn’t aimed at children. We don’t knowingly collect personal information from children under 13, or under the minimum age set by the law where they live. The age range of a child traveling with you is used only to plan that trip. If you believe a child has given us personal information, contact us and we will delete it.
+Tripzy is for adults planning trips and isn’t aimed at children. We don’t knowingly collect personal information from children under 13, or under the minimum age set by the law where they live. The age range of a child traveling with you, and your children’s ages for a weekend plan, are used only to make that plan. If you believe a child has given us personal information, contact us and we will delete it.
 
 ## Contact us
 For any privacy question or request, email {email}. Tripzy is published by Little Everyday Apps (Guan Jie Tan), who is responsible for your information under this policy. Tripzy: AI Trip Planner was formerly called “Tripzy 3: Beyond Boundaries”.
