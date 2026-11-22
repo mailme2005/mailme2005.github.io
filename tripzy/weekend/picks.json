@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "weekend": "2026-11-28",
+  "picks": [
+    {
+      "id": "2026-11-28-a",
+      "title": { "en": "Big playground morning at Pasir Ris Park", "zh": "上午去白沙公园玩大型游乐场" },
+      "note": { "en": "Go early, before the heat and the afternoon showers. There's little shade, so bring hats and water. If it rains, Tampines Library is close by.", "zh": "早点去，避开中午的炎热和午后阵雨。树荫不多，记得带帽子和水。下雨的话，附近有淡滨尼图书馆。" },
+      "part": "morning",
+      "area": "Pasir Ris",
+      "stops": ["sg-pasir-ris-park"],
+      "rainBackup": "sg-tampines-library"
+    },
+    {
+      "id": "2026-11-28-b",
+      "title": { "en": "Rain or shine: library and art room", "zh": "下雨也不怕：图书馆和美术室" },
+      "note": { "en": "The ocean-themed children's library at the National Library, then free art play at the National Gallery's Keppel Centre, best for ages 4 and up.", "zh": "先去国家图书馆的海洋主题儿童图书馆，再去国家美术馆的吉宝艺术教育中心免费玩美术，适合4岁以上。" },
+      "part": "afternoon",
+      "area": "Downtown Core",
+      "stops": ["sg-central-library", "sg-keppel-centre-for-art-education"]
+    },
+    {
+      "id": "2026-11-28-c",
+      "title": { "en": "Water play, then the Science Centre", "zh": "先玩水，再去科学馆" },
+      "note": { "en": "Water play at Jurong Lake Gardens' Clusia Cove in the morning (pack spare clothes), then the Science Centre after lunch. KidsSTOP, for under-8s, needs booking.", "zh": "上午在裕廊湖花园的Clusia Cove玩水（带替换衣服），午饭后去科学馆。8岁以下的KidsSTOP需要预约。" },
+      "part": "full_day",
+      "area": "Jurong East",
+      "stops": ["sg-jurong-lake-gardens", "sg-science-centre-singapore"],
+      "rainBackup": "sg-jurong-library"
+    }
+  ]
+}
