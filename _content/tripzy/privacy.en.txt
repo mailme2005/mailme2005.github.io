@@ -1,4 +1,4 @@
-@updated 2026-11-21
+@updated 2026-11-22
 @summary You don’t need an account, name, email address or password to use Tripzy. To create a plan, your trip details are sent to our service and to the companies listed below, including an AI service; our servers keep them for no more than about two days. Trips you save stay on your device. There are no ads, and we don’t sell your information or track you.
 
 ## What we receive

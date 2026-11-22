@@ -30,8 +30,7 @@ MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'Augus
 
 # Pages whose new version must not replace the live one yet. Remove an entry when its time comes.
 #   Receipted help pages: describe 1.1.0; publish them when 1.1.0 is released.
-# ('tripzy', 'privacy'): describes weekend plans; publish with the app version that ships them.
-HOLD = {('huayouju', 'support'), ('tripzy', 'privacy')}
+HOLD = {('huayouju', 'support')}
 
 def format_date(iso, lang):
     y, m, d = (int(x) for x in iso.split('-'))
