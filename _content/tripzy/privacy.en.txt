@@ -1,4 +1,4 @@
-@updated 2026-11-22
+@updated 2026-11-24
 @summary You don’t need an account, name, email address or password to use Tripzy. To create a plan, your trip details are sent to our service and to the companies listed below, including an AI service; our servers keep them for no more than about two days. Trips you save stay on your device. There are no ads, and we don’t sell your information or track you.
 
 ## What we receive
@@ -30,7 +30,7 @@ Your name, precise location, contacts, photos or advertising identifier. The app
 We share information only with the companies that help us run the app, and only what they need for that work. They may use it only to provide their services to us, and they must protect it at least as well as this policy describes.
 - **Google Cloud (Firebase)** hosts our servers and stores and handles the information described above.
 - **Google Gemini**, the AI service, receives your trip details, including any optional personal details, to create your itinerary. Under Google’s terms for paid use, this information isn’t used to improve Google’s products. Google may keep it for a limited time to detect abuse.
-- **Google Gemini** also receives your weekend outing details (your children’s ages, nap time, how you get around and the kinds of places nearby) to choose and order the stops of a weekend plan.
+- **Anthropic (Claude)**, an AI service, receives your weekend outing details (your children’s ages, nap time, how you get around and the kinds of places nearby) to choose and order the stops of a weekend plan and write a short note for each. Under Anthropic’s terms for paid use, this information isn’t used to train its models. Anthropic deletes it within 30 days, unless it is flagged for breaking Anthropic’s usage rules or the law requires it to be kept.
 - **Google Maps and Apple Maps** receive the places you type or choose, including must-see places and a booked hotel, to suggest places, check that they exist and plan routes. For a weekend plan, Apple Maps finds the centre of the area you choose, and Google Maps receives that point and the plan’s places to work out travel times. When you change a plan on the day, Apple Maps receives the plan’s places and that area centre (never your location) to work out new travel times.
 - **Singapore’s National Environment Agency**, through data.gov.sg, provides the weather forecast for weekend plans. The app asks for the public forecast directly and sends no personal information, though, as with any website, the service can see your device’s internet address.
 - **GitHub** hosts our website, where we post new weekend ideas each week. When the app gets them, it doesn’t send anything about you. Like any website, GitHub can see your internet address.
@@ -45,7 +45,7 @@ We may also disclose information if the law requires it, or to protect the right
 - **Credit and purchase records**: as long as needed to provide the service, prevent double grants, resolve disputes and meet accounting and legal requirements.
 - **Security and usage-limit records**: short periods only.
 - **Feedback and support messages**: as long as needed to respond and improve the app.
-The companies above keep information on their own schedules, for example Google’s limited retention of AI requests to detect abuse.
+The companies above keep information on their own schedules, for example Google’s limited retention of AI requests to detect abuse, and Anthropic’s deletion of weekend plan requests within 30 days.
 We protect information with encrypted connections, checks that requests come from the genuine app, and strict limits on who can access our systems. No way of storing or sending information is completely secure, but we work to protect yours.
 
 ## Your choices and how to delete
