@@ -10,14 +10,15 @@ A halal food preference may reveal religious beliefs. We use it only to plan mea
 - **Your family details**: your children’s ages in months, nap time, how you get around and whether you use a stroller. The app works out the ages from the birth month and year you enter; the birth months themselves stay on your device.
 - **The outing**: the day, the part of the day, the area you start from and a rain-or-dry hint from the weather forecast. We use only the centre of the area you choose, never your address or your precise location.
 - **Places you’ve visited**: if you mark places as visited, a new plan request includes the Tripzy codes of the places you visited recently, so the plan doesn’t repeat them. The list itself stays on your device.
-- **Changing a plan on the day**: if you allow it, the app uses your device’s location to find places near you when you tap “It’s raining”, “The kids are tired” or “It’s too crowded”. Your location is used only on your device and isn’t sent to us or to anyone else.
+- **Changing a plan on the day**: if you allow it, the app uses your device’s location to find places near you when you tap “It’s raining”, “The kids are tired”, “It’s too crowded” or “Switch to indoor places”. Your location is used only on your device and isn’t sent to us or to anyone else.
+- **Reminders to head home**: if you turn them on, the app schedules them on your device from your saved plan. Nothing about them is sent to us.
 Your family details and the plans you save stay on your device. You can delete them in the app.
 ### In the background
 - **An anonymous account**: the app creates a random account number the first time you open it. It isn’t linked to your name or email address.
 - **Security checks**: confirmation that requests come from a genuine copy of the app on a genuine Apple device.
 - **Notifications**: if you allow them, a code that lets us send notifications to your device.
 - **Service records**: technical details such as request references, times, error types and usage limits, which we need to run the service and prevent misuse.
-- **Anonymous usage totals**: daily counts of how often features are used, for example how many trips were opened, shared or rated. They contain no trip details, places or account numbers. You can turn them off in the app under Send Feedback → Privacy → Share anonymous usage counts.
+- **Anonymous usage totals**: daily counts of how often features are used, for example how many trips were opened, shared or rated. They contain no trip details, places or account numbers. You can turn them off in the app under Privacy and data → Anonymous usage counts and ratings.
 ### When you use credits or buy more
 Apple handles all payments, and we never receive your card or bank details. We receive Apple’s confirmation of your purchases and keep your credit balance and its history.
 To give free credits only once per Apple Account, and to bring your credits back on a new device, we keep a coded reference made from your App Store purchase information. It can’t be turned back into your Apple Account details.
