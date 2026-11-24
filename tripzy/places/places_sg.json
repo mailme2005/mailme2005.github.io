@@ -1,0 +1,2767 @@
+{
+  "schema_version": 1,
+  "library_version": 1,
+  "country": "SG",
+  "count": 35,
+  "places": [
+    {
+      "id": "sg-admiralty-park",
+      "name_en": "Admiralty Park",
+      "name_zh": "海军部公园",
+      "country": "SG",
+      "area": "Woodlands",
+      "lat": 1.449488581630104,
+      "lng": 103.7791193785892,
+      "category": "park",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 24,
+      "max_age_months": 144,
+      "typical_duration_min": 120,
+      "stroller_friendly": "partial",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": false,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Woodlands North",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-woodlands-library"
+      ],
+      "notes": "Open 24 hours, but the nature area is open only 7am to 7pm. NParks says the park has 26 slides, for children and adults, and asks visitors to follow the posted age groups. The North Entrance car park closed permanently on 1 Aug 2023. Use the West car park on Riverside Road (61 car lots) or the Woodlands Waterfront Park car park. NParks lists both Woodlands and Woodlands North MRT and does not say which is nearer. The unpaved nature-area path is … Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.nparks.gov.sg/visit/parks/park-detail/admiralty-park"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-bishan-ang-mo-kio-park",
+      "name_en": "Bishan-Ang Mo Kio Park",
+      "name_zh": "碧山宏茂桥公园",
+      "country": "SG",
+      "area": "Bishan",
+      "lat": 1.361114714502074,
+      "lng": 103.8477054687684,
+      "category": "park",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 12,
+      "max_age_months": 144,
+      "typical_duration_min": 120,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": false,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Bright Hill",
+      "walk_min_from_mrt": 5,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-bishan-library"
+      ],
+      "notes": "One of the largest urban parks in central Singapore, along Bishan Road and Ang Mo Kio Ave 1, with the naturalised Kallang River. The NParks page mentions a water playground only in passing (the cleansing biotope). It is a 5-minute walk from Bright Hill MRT via the Ang Mo Kio Ave 1 entrance; Bishan MRT is also listed. Three paid car parks (A: 130, B: 55, C: 78 car lots). The park straddles the Bishan and Ang Mo Kio planning areas. Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.nparks.gov.sg/visit/parks/park-detail/bishan-ang-mo-kio-park"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-bishan-library",
+      "name_en": "Bishan Library",
+      "name_zh": "碧山图书馆",
+      "country": "SG",
+      "area": "Bishan",
+      "lat": 1.349833300448217,
+      "lng": 103.8488770286274,
+      "category": "library",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 144,
+      "typical_duration_min": 60,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Bishan",
+      "walk_min_from_mrt": null,
+      "parking": null,
+      "rainy_day_backup_ids": [],
+      "notes": "NLB now calls this branch 'Bishan Library' (formerly Bishan Public Library). Address: 5 Bishan Place #01-01. It is closed on public holidays and closes at 5pm on the eves of Christmas, New Year and Chinese New Year. Extended hours run 9am to 10am. Facilities listed: Cafe, Multimedia Stations, Programme Zone, Reading Zone, Storytelling / Activity Area. No nursing room is listed. air_conditioned is not stated (suggest TRUE). Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/bishan-library"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-central-library",
+      "name_en": "Central Library (Children's Biodiversity Library by Singapore Oceanarium)",
+      "name_zh": "中央图书馆",
+      "country": "SG",
+      "area": "Downtown Core",
+      "lat": 1.297432294084046,
+      "lng": 103.8540713639483,
+      "category": "library",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 144,
+      "typical_duration_min": 90,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Bugis",
+      "walk_min_from_mrt": null,
+      "parking": null,
+      "rainy_day_backup_ids": [],
+      "notes": "Basement 1 of the National Library Building. Children's section: Children's Biodiversity Library by Singapore Oceanarium, a marine-themed space with about 90,600 children's titles, The Submarine programme room, gamification kiosks and an Immersive Room with an interactive projection wall. Closed on public holidays; closes 17:00 on the eves of Christmas, New Year and Chinese New Year. Reopened 12 Jan 2024 after a revamp. Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/central-library",
+        "https://eservice.nlb.gov.sg/assets/branches/pdfs/Library_Details_Central_Library.pdf",
+        "https://www.nlb.gov.sg/main/main/-/media/NLBMedia/Documents/Visit-Us/Libraries/CLL/Central-Library-Wheel-Chair-Route-MRT-File.pdf",
+        "https://www.ura.gov.sg/guidelines/urban-design/downtown-core/"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-childrens-museum-singapore",
+      "name_en": "Children's Museum Singapore",
+      "name_zh": "新加坡儿童博物馆",
+      "country": "SG",
+      "area": "Museum",
+      "lat": 1.292844540306183,
+      "lng": 103.8487045980144,
+      "category": "museum",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 144,
+      "typical_duration_min": 105,
+      "stroller_friendly": "partial",
+      "nursing_room": true,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": "free",
+      "opening_hours": {
+        "mon": [],
+        "tue": [
+          [
+            "09:00",
+            "12:45"
+          ],
+          [
+            "14:00",
+            "17:45"
+          ]
+        ],
+        "wed": [
+          [
+            "09:00",
+            "12:45"
+          ],
+          [
+            "14:00",
+            "17:45"
+          ]
+        ],
+        "thu": [
+          [
+            "09:00",
+            "12:45"
+          ],
+          [
+            "14:00",
+            "17:45"
+          ]
+        ],
+        "fri": [
+          [
+            "09:00",
+            "12:45"
+          ],
+          [
+            "14:00",
+            "17:45"
+          ]
+        ],
+        "sat": [
+          [
+            "09:00",
+            "12:45"
+          ],
+          [
+            "14:00",
+            "17:45"
+          ]
+        ],
+        "sun": [
+          [
+            "09:00",
+            "12:45"
+          ],
+          [
+            "14:00",
+            "17:45"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "City Hall",
+      "walk_min_from_mrt": 8,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "Timed entry at 9am, 11am, 2pm and 4pm; each visit lasts 1h45m; closed 12:45-2pm for cleaning; last admission 1h before each session ends. Book up to 30 days ahead; walk-ins depend on capacity. Free for Singapore citizens and PRs; foreigners pay child S$10, adult S$15, family package S$40. For ages 12 and under; adults only with a child; babies 12 months and under need no ticket. Money Barn is for 48 months and under.… Not yet confirmed: diaper changing.",
+      "source": [
+        "https://www.heritage.sg/childrensmuseum",
+        "https://www.heritage.sg/childrensmuseum/visit/visitor-information",
+        "https://www.heritage.sg/childrensmuseum/visit/faqs",
+        "https://www.heritage.sg/childrensmuseum/whatson/exhibitions"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-clementi-library",
+      "name_en": "Clementi Library",
+      "name_zh": "金文泰图书馆",
+      "country": "SG",
+      "area": "Clementi",
+      "lat": 1.314986729546534,
+      "lng": 103.7647246807748,
+      "category": "library",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 144,
+      "typical_duration_min": 60,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Clementi",
+      "walk_min_from_mrt": null,
+      "parking": null,
+      "rainy_day_backup_ids": [],
+      "notes": "Extra entry: proposed rainy-day backup for West Coast Park (about 2 km). On level 5 of The Clementi Mall (#05-13/14/15). Extended self-service hours 9-11am; staff from 11am. Closed on public holidays; closes 5pm on the eves of Christmas, New Year and CNY. Baby books corner, Storytelling/Activity Area, interactive digital storytelling kiosks. Wheelchair accessible. Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/clementi-library"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-compass-one",
+      "name_en": "Compass One",
+      "name_zh": "Compass One购物中心",
+      "country": "SG",
+      "area": "Sengkang",
+      "lat": 1.39205314156707,
+      "lng": 103.8950705438402,
+      "category": "mall",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 216,
+      "typical_duration_min": 120,
+      "stroller_friendly": "yes",
+      "nursing_room": true,
+      "diaper_changing": true,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Sengkang",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "PROPOSED extra place, as the rainy-day backup for Sengkang Riverside Park (about 1.5 km away). Nursing rooms on Level 4 (with multiple diaper-changing stations) and Basement 1. The Ninja Trail play area on Level 4 is for ages 2-12 and open 10am-7pm, closed on the first Monday of each month. Sengkang Library (NLB) is inside, #03-28 & #04-19, open Mon-Sun 11am-9pm and closed on public holidays. Car park is open 7am-11pm, $1.50 for the first hour.…",
+      "source": [
+        "https://www.compassone.sg/about-us/",
+        "https://www.compassone.sg/getting-here/",
+        "https://www.compassone.sg/facilities/",
+        "https://www.compassone.sg/parking-hours/",
+        "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/sengkang-library"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-east-coast-park",
+      "name_en": "East Coast Park",
+      "name_zh": "东海岸公园",
+      "country": "SG",
+      "area": "Marine Parade",
+      "lat": 1.29665780453236,
+      "lng": 103.8996965705497,
+      "category": "park",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 36,
+      "max_age_months": 144,
+      "typical_duration_min": 150,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": false,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Bedok",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-parkway-parade"
+      ],
+      "notes": "Park is open 24 hours. Coastal PlayGrove (Area B): water play for ages 5-12, 08:00-20:00 Tue-Sun and PH Mondays, closed Mondays for maintenance (if a PH falls on Monday, it closes the next Tuesday); nature playgarden for ages 3-12, open 24h; play tower for 13+, slides 08:00-22:00. A toilet is near the water play. Parking: carparks in Areas A-G, 'Parking fees may apply'. Wheelchair accessible except parts of the Xtreme Skatepark. Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.nparks.gov.sg/visit/parks/park-detail/east-coast-park",
+        "https://www.nparks.gov.sg/visit/parks/east-coast-park/amenities/coastal-playgrove",
+        "https://www.nparks.gov.sg/visit/parks/children"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-far-east-organization-childrens-garden",
+      "name_en": "Far East Organization Children's Garden, Gardens by the Bay",
+      "name_zh": "远东机构儿童花园（滨海湾花园）",
+      "country": "SG",
+      "area": "Marina South",
+      "lat": 1.282873367353576,
+      "lng": 103.8671376736032,
+      "category": "water_play",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 12,
+      "max_age_months": 144,
+      "typical_duration_min": 120,
+      "stroller_friendly": "partial",
+      "nursing_room": true,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": "free",
+      "opening_hours": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "09:00",
+            "19:00"
+          ]
+        ],
+        "fri": [
+          [
+            "09:00",
+            "19:00"
+          ]
+        ],
+        "sat": [
+          [
+            "09:00",
+            "19:00"
+          ]
+        ],
+        "sun": [
+          [
+            "09:00",
+            "19:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": null,
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-flower-dome"
+      ],
+      "notes": "Normal hours: Thu-Sun and PH, 9am-7pm; last admission 6pm; water play ends 6:30pm. SCHOOL HOLIDAYS (Mar, Jun, Sep, Dec term breaks plus Youth/Teachers'/Children's Day and the day after National Day): open Tue-Sun 9am-7pm. Closed on Tuesday if the preceding Monday is a public holiday. For children 12 and under; adults only with a child. Toddler Play Zone 1-5; Tree Houses and Water Play 6-12. Nearest carpark: Satay by the Bay.… Not yet confirmed: diaper changing.",
+      "source": [
+        "https://www.gardensbythebay.com.sg/en/things-to-do/attractions/far-east-organization-childrens-garden.html",
+        "https://www.gardensbythebay.com.sg/en/plan-your-visit/opening-hours.html",
+        "https://www.gardensbythebay.com.sg/en/plan-your-visit/getting-here.html",
+        "https://www.gardensbythebay.com.sg/en/plan-your-visit/amenities-and-services.html"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-flower-dome",
+      "name_en": "Flower Dome, Gardens by the Bay",
+      "name_zh": "花穹（滨海湾花园）",
+      "country": "SG",
+      "area": "Marina South",
+      "lat": 1.28462046280111,
+      "lng": 103.8647353774337,
+      "category": "attraction",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 216,
+      "typical_duration_min": 60,
+      "stroller_friendly": "yes",
+      "nursing_room": true,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": "low",
+      "opening_hours": {
+        "mon": [
+          [
+            "09:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "09:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "09:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "09:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "09:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "09:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "09:00",
+            "21:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": null,
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "Open daily 9am-9pm, last admission 8:30pm. Closed once a month for maintenance; next closure 12 Jan 2027. Resident tickets: adult S$12, child (3-12) S$8, senior S$8. Non-residents see only combo tickets (Flower Dome + Cloud Forest: adult S$46, child S$32). Temperature 23-25 C. Nursing room at The Canopy, near the Flower Dome entrance. Nearest carpark: Main Entrance Basement. A shuttle runs between Bayfront MRT and the Flower Dome (S$3 for two rides). Not yet confirmed: diaper changing.",
+      "source": [
+        "https://www.gardensbythebay.com.sg/en/things-to-do/attractions/flower-dome.html",
+        "https://www.gardensbythebay.com.sg/en/plan-your-visit/opening-hours.html",
+        "https://www.gardensbythebay.com.sg/en/plan-your-visit/getting-here.html",
+        "https://www.gardensbythebay.com.sg/en/plan-your-visit/amenities-and-services.html"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-harbourfront-library",
+      "name_en": "Harbourfront Library",
+      "name_zh": "港湾图书馆",
+      "country": "SG",
+      "area": "Bukit Merah",
+      "lat": 1.263810298771068,
+      "lng": 103.8231429589557,
+      "category": "library",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 144,
+      "typical_duration_min": 60,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "HarbourFront",
+      "walk_min_from_mrt": null,
+      "parking": null,
+      "rainy_day_backup_ids": [],
+      "notes": "Extra entry: proposed rainy-day backup for HortPark (about 3 km). In VivoCity #03-05 (Lobby F). Separate Children's Zone with Immersive Storytelling Room and Tinker Truck makerspace (ages 3-9). Extended hours 9-11am (enter with eCard); staff from 11am. Closed on public holidays; closes 5pm on the eves of Christmas, New Year and CNY. VivoCity nursing rooms are nearby (see sg-vivocity). Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/harbourfront-library",
+        "https://www.vivocity.com.sg/kidsclub"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-hortpark",
+      "name_en": "HortPark",
+      "name_zh": "园艺公园",
+      "country": "SG",
+      "area": "Queenstown",
+      "lat": 1.278998006430034,
+      "lng": 103.8011244425013,
+      "category": "park",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 12,
+      "max_age_months": 96,
+      "typical_duration_min": 90,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "06:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "06:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "06:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "06:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "06:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "06:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "06:00",
+            "23:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": null,
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-harbourfront-library",
+        "sg-vivocity"
+      ],
+      "notes": "3 playgrounds (sandpit area; slides and kiddie rides; space net) plus a nature playgarden suited to preschoolers. 10.7 ha; part of the Southern Ridges. Car park 149 lots, fees apply. NParks lists Commonwealth, HarbourFront, Labrador Park and Queenstown as nearby MRT stations, with no nearest or walk time. Cafe Canopy on site. Wheelchair and elderly friendly. Backup: Harbourfront Library in VivoCity, about 3 km. Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.nparks.gov.sg/visit/parks/park-detail/hortpark",
+        "https://en.wikipedia.org/wiki/HortPark"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-jacob-ballas-childrens-garden",
+      "name_en": "Jacob Ballas Children's Garden, Singapore Botanic Gardens",
+      "name_zh": "雅格巴拉斯儿童花园（新加坡植物园）",
+      "country": "SG",
+      "area": "Tanglin",
+      "lat": 1.320754853311919,
+      "lng": 103.8179037221328,
+      "category": "playground",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 12,
+      "max_age_months": 168,
+      "typical_duration_min": 150,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": "free",
+      "opening_hours": {
+        "mon": [],
+        "tue": [
+          [
+            "08:00",
+            "19:00"
+          ]
+        ],
+        "wed": [
+          [
+            "08:00",
+            "19:00"
+          ]
+        ],
+        "thu": [
+          [
+            "08:00",
+            "19:00"
+          ]
+        ],
+        "fri": [
+          [
+            "08:00",
+            "19:00"
+          ]
+        ],
+        "sat": [
+          [
+            "08:00",
+            "19:00"
+          ]
+        ],
+        "sun": [
+          [
+            "08:00",
+            "19:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Botanic Gardens",
+      "walk_min_from_mrt": 10,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-tanglin-mall"
+      ],
+      "notes": "Open 8am-7pm, last admission 6:30pm. Closed Mondays unless the Monday is a public holiday. Free. 4 ha with eight zones; waterplay of about 500 sqm for ages 2-12, with a changing area. Adults may enter only with a child. No bicycles, scooters or glass. Botanic Gardens MRT (CC19/DT9) Exit A, then a 10-minute walk. Paid parking at the garden (closed Mondays) and at NUS Bukit Timah Campus. Wheelchair accessible. Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://sbg.nparks.gov.sg/attractions/jacob-ballas-childrens--garden/",
+        "https://sbg.nparks.gov.sg/visit/general-info/"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-jewel-changi-airport",
+      "name_en": "Jewel Changi Airport (Shiseido Forest Valley)",
+      "name_zh": "星耀樟宜（森林谷）",
+      "country": "SG",
+      "area": "Changi",
+      "lat": 1.360341006610217,
+      "lng": 103.9890775502096,
+      "category": "attraction",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 216,
+      "typical_duration_min": 120,
+      "stroller_friendly": "yes",
+      "nursing_room": true,
+      "diaper_changing": true,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Changi Airport",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "Forest Valley is open 24h, with entry points on L1-L4. Rain Vortex runs 10am-10pm; light shows Mon-Thu 8pm and 9pm, Fri-Sun, PH eves and PHs 8, 9 and 10pm. PAID: Canopy Park (L5) costs S$8 standard or S$6 for residents; children 3-12; under-3s free. Hours: Mon-Thu 10:00-21:00; Fri-Sun, eves and PHs 10:00-22:00. Canopy Bridge, mazes and nets are ticketed separately. Changi Experience Studio is for ages 6+. Strollers can be borrowed at the L1 Concierge (refundable deposit).…",
+      "source": [
+        "https://www.jewelchangiairport.com/en/attractions.html",
+        "https://www.jewelchangiairport.com/en/attractions/forest-valley.html",
+        "https://www.jewelchangiairport.com/zh/attractions/forest-valley.html",
+        "https://www.jewelchangiairport.com/en/faqs.html",
+        "https://www.jewelchangiairport.com/en/getting-to-jewel.html",
+        "https://www.jewelchangiairport.com/en/attractions/canopy-park.html"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-jurong-lake-gardens",
+      "name_en": "Jurong Lake Gardens (Lakeside Garden: Clusia Cove and Forest Ramble)",
+      "name_zh": "裕廊湖花园",
+      "country": "SG",
+      "area": "Jurong East",
+      "lat": 1.339359562086737,
+      "lng": 103.7272994620431,
+      "category": "park",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 24,
+      "max_age_months": 144,
+      "typical_duration_min": 150,
+      "stroller_friendly": "partial",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [],
+        "tue": [
+          [
+            "08:00",
+            "19:00"
+          ]
+        ],
+        "wed": [
+          [
+            "08:00",
+            "19:00"
+          ]
+        ],
+        "thu": [
+          [
+            "08:00",
+            "19:00"
+          ]
+        ],
+        "fri": [
+          [
+            "08:00",
+            "19:00"
+          ]
+        ],
+        "sat": [
+          [
+            "08:00",
+            "19:00"
+          ]
+        ],
+        "sun": [
+          [
+            "08:00",
+            "19:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Lakeside",
+      "walk_min_from_mrt": 12,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-jurong-library",
+        "sg-science-centre-singapore"
+      ],
+      "notes": "Hours are when both are open: Clusia Cove 8am-7pm, Forest Ramble 8am-10pm, Tue-Sun and PH. Both close Mon for maintenance (except PH) and Tue after a Mon PH. Lakeside Garden grounds open 24h. Heron Play and Snake Play at Forest Ramble closed for maintenance until further notice. North Carpark (Chinese Garden Rd) nearest. 12 min is Lakeside MRT to Entrance Pavilion; playground walk not stated. Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://juronglakegardens.nparks.gov.sg/discover/lakeside-garden/clusia-cove/",
+        "https://juronglakegardens.nparks.gov.sg/discover/lakeside-garden/forest-ramble/",
+        "https://juronglakegardens.nparks.gov.sg/plan-your-visit/operating-hours-and-services/",
+        "https://juronglakegardens.nparks.gov.sg/plan-your-visit/getting-here/",
+        "https://juronglakegardens.nparks.gov.sg/venues/bbq-pits/",
+        "https://juronglakegardens.nparks.gov.sg/discover/about-jurong-lake-gardens/"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-jurong-library",
+      "name_en": "Jurong Library",
+      "name_zh": "裕廊图书馆",
+      "country": "SG",
+      "area": "Jurong East",
+      "lat": 1.332884847312555,
+      "lng": 103.7394901690766,
+      "category": "library",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 144,
+      "typical_duration_min": 60,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Jurong East",
+      "walk_min_from_mrt": null,
+      "parking": null,
+      "rainy_day_backup_ids": [],
+      "notes": "Formerly Jurong Regional Library; NLB now calls it Jurong Library. Closed on public holidays; closes 5pm on the eves of Christmas, New Year and CNY. Early Literacy Library in the basement for under-3s and 4-6s. Storytelling/Activity Area, MakeIT makerspace, cafe. Wheelchair accessible. A 2022 NLB fact sheet lists Play@Library (unstructured play, age 6 and below); current schedule not checked. Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/jurong-library",
+        "https://www.nlb.gov.sg/main/main/-/media/NLBMedia/Documents/Visit-Us/Libraries/JRL/Jurong-Regional-Library-Fact-Sheet.pdf"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-keppel-centre-for-art-education",
+      "name_en": "Keppel Centre for Art Education, National Gallery Singapore",
+      "name_zh": "吉宝艺术教育中心（新加坡国家美术馆）",
+      "country": "SG",
+      "area": "Downtown Core",
+      "lat": 1.290655338403677,
+      "lng": 103.8517080135591,
+      "category": "museum",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 48,
+      "max_age_months": 144,
+      "typical_duration_min": 90,
+      "stroller_friendly": "partial",
+      "nursing_room": false,
+      "diaper_changing": true,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": "free",
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "12:30"
+          ],
+          [
+            "13:00",
+            "15:30"
+          ],
+          [
+            "16:00",
+            "19:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "12:30"
+          ],
+          [
+            "13:00",
+            "15:30"
+          ],
+          [
+            "16:00",
+            "19:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "12:30"
+          ],
+          [
+            "13:00",
+            "15:30"
+          ],
+          [
+            "16:00",
+            "19:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "12:30"
+          ],
+          [
+            "13:00",
+            "15:30"
+          ],
+          [
+            "16:00",
+            "19:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "12:30"
+          ],
+          [
+            "13:00",
+            "15:30"
+          ],
+          [
+            "16:00",
+            "19:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "12:30"
+          ],
+          [
+            "13:00",
+            "15:30"
+          ],
+          [
+            "16:00",
+            "19:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "12:30"
+          ],
+          [
+            "13:00",
+            "15:30"
+          ],
+          [
+            "16:00",
+            "19:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "City Hall",
+      "walk_min_from_mrt": 7,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "City Hall Wing, Level 1. Free, and no Gallery ticket needed (it is a non-ticketed area). Open daily within Gallery hours (10am-7pm); closed 12:30-1pm and 3:30-4pm for cleaning; last entry 6:40pm. Popular on weekends: about a 30-min wait when full. Free daily drop-in art activity; paid programmes: GalleryToddlers! S$15 per pair, Gallery StoryMakers! (ages 4-8) S$15. Stroller parking inside the entrance. Baby changing rooms on every level of the City Hall Wing exc… Not yet confirmed: nursing room.",
+      "source": [
+        "https://www.nationalgallery.sg/sg/en/visit/visitor-information/keppel-centre-for-art-education.html",
+        "https://www.nationalgallery.sg/sg/en/visit/visitor-information.html"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-northpoint-city",
+      "name_en": "Northpoint City",
+      "name_zh": "北点城",
+      "country": "SG",
+      "area": "Yishun",
+      "lat": 1.429698486262892,
+      "lng": 103.8357764914675,
+      "category": "mall",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 216,
+      "typical_duration_min": 150,
+      "stroller_friendly": "yes",
+      "nursing_room": true,
+      "diaper_changing": true,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:30",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "10:30",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "10:30",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "10:30",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "10:30",
+            "22:30"
+          ]
+        ],
+        "sat": [
+          [
+            "10:30",
+            "22:30"
+          ]
+        ],
+        "sun": [
+          [
+            "10:30",
+            "22:30"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Yishun",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "Mall hours come from the site banner 'OPEN TODAY: 10.30AM TO 10.30PM' and its mall setting openingHrs '10.30am to 10.30pm'. The '10am to 10pm' on the Visit page is the Customer Service Counter. Connected to Yishun MRT (Exit E to North Wing, Exit D to South Wing). Kids' play: a Wet Playground on Level 4 (North Wing) and the Shoe House dry playground on Level 3 (South Wing). Both are outdoor and 'may be temporarily closed during rainy weather', so they are not rain-proof.…",
+      "source": [
+        "https://www.northpointcity.com.sg/home",
+        "https://www.northpointcity.com.sg/visit",
+        "https://www.northpointcity.com.sg/family"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-palawan-beach",
+      "name_en": "Palawan Beach, Sentosa",
+      "name_zh": "巴拉湾海滩",
+      "country": "SG",
+      "area": "Southern Islands",
+      "lat": 1.247984246736638,
+      "lng": 103.8221745846821,
+      "category": "attraction",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 12,
+      "max_age_months": 216,
+      "typical_duration_min": 150,
+      "stroller_friendly": "partial",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "09:00",
+            "19:00"
+          ]
+        ],
+        "tue": [
+          [
+            "09:00",
+            "19:00"
+          ]
+        ],
+        "wed": [
+          [
+            "09:00",
+            "19:00"
+          ]
+        ],
+        "thu": [
+          [
+            "09:00",
+            "19:00"
+          ]
+        ],
+        "fri": [
+          [
+            "09:00",
+            "19:00"
+          ]
+        ],
+        "sat": [
+          [
+            "09:00",
+            "19:00"
+          ]
+        ],
+        "sun": [
+          [
+            "09:00",
+            "19:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": null,
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-singapore-oceanarium"
+      ],
+      "notes": "Hours shown are lifeguard (Beach Patrol) hours, 9am-7pm daily incl. PH; beach opening hours are not stated. Rope bridge to the Southernmost Point of Continental Asia islet with watchtower. Calm lagoons for swimming. Getting there: Sentosa Express or bus 123 to Beach Station, then the Beach Shuttle. Nearest car park: Tanjong 1. No smoking on the beach. Splash Tribe water playground at The Palawan @ Sentosa is separately operated and not researche… Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.sentosa.com.sg/en/things-to-do/attractions/palawan-beach/"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-parkway-parade",
+      "name_en": "Parkway Parade",
+      "name_zh": "百汇广场",
+      "country": "SG",
+      "area": "Marine Parade",
+      "lat": 1.301069755063101,
+      "lng": 103.9052794915233,
+      "category": "mall",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 216,
+      "typical_duration_min": 120,
+      "stroller_friendly": "yes",
+      "nursing_room": true,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Marine Parade",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "Centre hours Mon-Sun 10am-10pm; individual store hours vary. Nearest MRT is Marine Parade (TE26), Exit 1. Nursing rooms on B1 (near Japan Home), L1, L2 and L3 (beside washrooms). 1,184 car lots, with family lots on P4-P7. The complimentary wheelchair hire has ended. No public-holiday hours are stated. Not yet confirmed: diaper changing.",
+      "source": [
+        "https://www.parkwayparade.com.sg/",
+        "https://www.parkwayparade.com.sg/opening-hours/",
+        "https://www.parkwayparade.com.sg/concierge/getting-here/",
+        "https://www.parkwayparade.com.sg/concierge/centre-services/"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-pasir-ris-park",
+      "name_en": "Pasir Ris Park",
+      "name_zh": "白沙公园",
+      "country": "SG",
+      "area": "Pasir Ris",
+      "lat": 1.381227239195427,
+      "lng": 103.9504683902883,
+      "category": "park",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 12,
+      "max_age_months": 144,
+      "typical_duration_min": 120,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": false,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Pasir Ris",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-tampines-library"
+      ],
+      "notes": "NParks: 70 ha over 3.2 km, includes 'Singapore's largest playground', a mangrove boardwalk and Maze, Kitchen and Butterfly Gardens. Carparks: C (Area 2, 2,542 lots, paid); D (Area 3) and F (Area 4) are free; A and E are paid. Wheelchair accessible. Entry fee not stated on the page. Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.nparks.gov.sg/visit/parks/park-detail/pasir-ris-park",
+        "https://www.nparks.gov.sg/visit/parks/children"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-punggol-library",
+      "name_en": "Punggol Library",
+      "name_zh": "榜鹅图书馆",
+      "country": "SG",
+      "area": "Punggol",
+      "lat": 1.409167104446057,
+      "lng": 103.9052597778993,
+      "category": "library",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 144,
+      "typical_duration_min": 120,
+      "stroller_friendly": "yes",
+      "nursing_room": true,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Punggol",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "NLB now calls this branch 'Punggol Library' (formerly Punggol Regional Library). Address: 1 Punggol Drive, One Punggol #01-12. It is closed on public holidays and closes at 5pm on the eves of Christmas, New Year and Chinese New Year. Extended hours run 9am to 10am. The Study Zone (Level 3, Lift Lobby B) is open 9am to 10pm daily, including public holidays. Facilities include a Family Lounge, Nursing Room, Toy Library, TinkerTots, Storyteller Cove and Spark!La… Not yet confirmed: diaper changing.",
+      "source": [
+        "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/punggol-library"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-punggol-waterway-park",
+      "name_en": "Punggol Waterway Park",
+      "name_zh": "榜鹅水道公园",
+      "country": "SG",
+      "area": "Punggol",
+      "lat": 1.410997305949771,
+      "lng": 103.9048148378543,
+      "category": "park",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 12,
+      "max_age_months": 144,
+      "typical_duration_min": 120,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": false,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Punggol",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-waterway-point",
+        "sg-punggol-library"
+      ],
+      "notes": "The park has 4 themed areas: Nature Cove, Recreation Zone, Heritage Zone and Green Gallery. It is 25.79 ha along Sentul Crescent. NParks lists Damai LRT and Punggol MRT as nearby stations. Two small paid car parks on Sentul Crescent (18 and 15 car lots). The NParks page does not mention a playground. Waterway Point is about 0.6 km and Punggol Library about 0.2 km from the OneMap point (straight line). Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.nparks.gov.sg/visit/parks/park-detail/punggol-waterway-park"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-science-centre-singapore",
+      "name_en": "Science Centre Singapore",
+      "name_zh": "新加坡科学馆",
+      "country": "SG",
+      "area": "Jurong East",
+      "lat": 1.332838733211475,
+      "lng": 103.735820581071,
+      "category": "museum",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 18,
+      "max_age_months": 216,
+      "typical_duration_min": 240,
+      "stroller_friendly": "partial",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": "low",
+      "opening_hours": {
+        "mon": [],
+        "tue": [
+          [
+            "10:00",
+            "17:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "17:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "17:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "17:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "17:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "17:00"
+          ]
+        ]
+      },
+      "booking_required": false,
+      "nearest_mrt": "Jurong East",
+      "walk_min_from_mrt": 8,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "Open on Mondays that are public or gazetted school holidays; last admission 4.15pm. KidsSTOP (age 8 and below) must be pre-booked: 10am-1pm and 2pm-5pm; no strollers inside; under 18 months free. General admission SC/PR peak $6 adult / $4 child (3-12), off-peak free; standard $12/$8. Separate tickets for Omni-Theatre and KidsSTOP. No food in galleries. Still open at the current site. Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.science.edu.sg/",
+        "https://www.science.edu.sg/visit-us/opening-hours",
+        "https://www.science.edu.sg/visit-us/plan-your-visit",
+        "https://www.science.edu.sg/visit-us/ticket-prices",
+        "https://www.science.edu.sg/visit-us/getting-here",
+        "https://www.science.edu.sg/visit-us/visitor-guidelines",
+        "https://www.science.edu.sg/visit-us/kidsstop/for-families"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-sengkang-riverside-park",
+      "name_en": "Sengkang Riverside Park",
+      "name_zh": "盛港河畔公园",
+      "country": "SG",
+      "area": "Sengkang",
+      "lat": 1.399503189477427,
+      "lng": 103.8842368003249,
+      "category": "park",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 12,
+      "max_age_months": 144,
+      "typical_duration_min": 90,
+      "stroller_friendly": "partial",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": false,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Kupang LRT",
+      "walk_min_from_mrt": 5,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-compass-one",
+        "sg-waterway-point"
+      ],
+      "notes": "The park has 3 plots. Kupang LRT is a 5-minute walk to the Visitor and Mangrove plots; Farmway LRT is a 5-minute walk to the Civic plot. Sengkang MRT is also listed as nearby. Features: a constructed wetland with a fruit-themed boardwalk, a 290 m bridge and over 20 fruit-tree species. The car park near the Fernvale Street entrance has 77 car lots. Pond areas are not wheelchair accessible. Proposed backup: Compass One (about 1.5 km; includes Seng… Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.nparks.gov.sg/visit/parks/park-detail/sengkang-riverside-park"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-singapore-oceanarium",
+      "name_en": "Singapore Oceanarium (formerly S.E.A. Aquarium), Resorts World Sentosa",
+      "name_zh": "新加坡海洋生态馆",
+      "country": "SG",
+      "area": "Southern Islands",
+      "lat": 1.258360194027917,
+      "lng": 103.8205073285215,
+      "category": "attraction",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 216,
+      "typical_duration_min": 120,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": "high",
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "19:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "19:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "19:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "19:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "19:00"
+          ]
+        ],
+        "sat": [
+          [
+            "09:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "09:00",
+            "21:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": null,
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "S.E.A. Aquarium is now Singapore Oceanarium (RWS page published 23 Jul 2025). Full-day closures on 5, 15 and 16 December (year not shown; likely 2026). Weekend hours also apply on public holidays. Hours vary; check the calendar. 'Life in the Deep' closed for maintenance. Adult (13-59) from SGD55, child (4-12) from SGD43, senior from SGD43. Parking: B1 East Car Park; drop-off: B1 Casino Entrance. Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.rwsentosa.com/en/play/singapore-oceanarium",
+        "https://www.rwsentosa.com/zh-cn/play/singapore-oceanarium"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-tampines-library",
+      "name_en": "Tampines Library",
+      "name_zh": "淡滨尼图书馆",
+      "country": "SG",
+      "area": "Tampines",
+      "lat": 1.353387007574042,
+      "lng": 103.9402689938395,
+      "category": "library",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 144,
+      "typical_duration_min": 90,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Tampines",
+      "walk_min_from_mrt": null,
+      "parking": null,
+      "rainy_day_backup_ids": [],
+      "notes": "Our Tampines Hub #02-01. Extended self-service hours 09:00-10:00; staff help from 10:00. Closed on public holidays; closes 17:00 on the eves of Christmas, New Year and Chinese New Year. Early Literacy Library (L3) for ages 3 and under. Indoor playground on L3 is run by Playtopia, a separate operator; its fees and hours were not checked. Five storeys. Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/tampines-library",
+        "https://www.nlb.gov.sg/main/main/-/media/NLBMedia/Documents/Visit-Us/Libraries/TRL/Tampines-Regional-Library-Fact-Sheet.pdf"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-tanglin-mall",
+      "name_en": "Tanglin Mall",
+      "name_zh": "东陵购物中心",
+      "country": "SG",
+      "area": "Tanglin",
+      "lat": 1.304843441969151,
+      "lng": 103.8238527947718,
+      "category": "mall",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 144,
+      "typical_duration_min": 120,
+      "stroller_friendly": "yes",
+      "nursing_room": true,
+      "diaper_changing": true,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Orchard Boulevard",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "EXTRA ENTRY: proposed indoor backup for Jacob Ballas Children's Garden, about 1.9 km straight-line (computed from OneMap coordinates). Family-oriented mall: Kids Play Zone (L3), kiddy rides (L2, L3), Lil Ninja Academy, Impressions Kids Club with a paid indoor playground, and music classes for babies and toddlers. Baby Care Room on L3 with nursing room and diaper station; Diaper Changing Room on L2. Nearest MRT: Orchard Boulevard (TE13) or Orchard (NS22).…",
+      "source": [
+        "https://www.tanglinmall.com.sg/",
+        "https://www.tanglinmall.com.sg/explore-tanglin-mall/services/",
+        "https://www.tanglinmall.com.sg/explore-tanglin-mall/family-favourites/",
+        "https://www.tanglinmall.com.sg/explore-tanglin-mall/getting-here/"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-vivocity",
+      "name_en": "VivoCity",
+      "name_zh": "怡丰城",
+      "country": "SG",
+      "area": "Bukit Merah",
+      "lat": 1.264293167839738,
+      "lng": 103.8223046936493,
+      "category": "mall",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 216,
+      "typical_duration_min": 120,
+      "stroller_friendly": "yes",
+      "nursing_room": true,
+      "diaper_changing": true,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "HarbourFront",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "L3 rooftop Sky Park water feature ('4 Olympic-sized swimming pools'); hours and rules not stated officially (third-party sites say free, 10am-10pm). Open-air Play Court playground on L2. Main Nursing/Baby Room at L2 Play Court (near #02-94) with diaper changing; more nursing rooms at L2 and L3 Lobby H. Zoomoov rides; Harbourfront Library on L3. Over 2,000 car park lots.",
+      "source": [
+        "https://www.vivocity.com.sg/",
+        "https://www.vivocity.com.sg/about-us?services=nursing_room",
+        "https://www.vivocity.com.sg/kidsclub",
+        "https://www.vivocity.com.sg/tourist/"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-waterway-point",
+      "name_en": "Waterway Point",
+      "name_zh": "榜鹅水滨坊",
+      "country": "SG",
+      "area": "Punggol",
+      "lat": 1.406484621320066,
+      "lng": 103.9021056807848,
+      "category": "mall",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 216,
+      "typical_duration_min": 150,
+      "stroller_friendly": "yes",
+      "nursing_room": true,
+      "diaper_changing": true,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Punggol",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "Linked directly to Punggol MRT/LRT (Exit A). Happy Park is a rooftop wet and dry playground on Level 2. It is outdoors, so it is not a rain-proof activity. Amenities listed: Family/Nursing Rooms, Diaper Changing Stations, Kids Shower Rooms, baby seats and potty seats in toilets, family parking lot. Cars pay $1.50 for the first hour on weekdays and $1.60 on weekends and public holidays.…",
+      "source": [
+        "https://www.waterwaypoint.com.sg/home",
+        "https://www.waterwaypoint.com.sg/visit",
+        "https://www.waterwaypoint.com.sg/family"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-west-coast-park",
+      "name_en": "West Coast Park",
+      "name_zh": "西海岸公园",
+      "country": "SG",
+      "area": "Clementi",
+      "lat": 1.29671519967862,
+      "lng": 103.7627250760316,
+      "category": "park",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 12,
+      "max_age_months": 168,
+      "typical_duration_min": 120,
+      "stroller_friendly": "partial",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Clementi",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-clementi-library"
+      ],
+      "notes": "'Play Centre of the West'. Playground has 8 playsets incl. flying fox, viking ship, toddler area and a wheelchair-accessible inclusive area; also a nature playgarden. 50 ha, 3 car parks (fees apply). NParks lists Clementi and Haw Par Villa as nearby MRT stations, without walk times. McDonald's in the park. Footpath section in Area 1 closed for repairs until 31 Dec 2026. Backup: Clementi Library, about 2 km straight-line. Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.nparks.gov.sg/visit/parks/park-detail/west-coast-park/"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-westgate",
+      "name_en": "Westgate",
+      "name_zh": "西城",
+      "country": "SG",
+      "area": "Jurong East",
+      "lat": 1.334157675568678,
+      "lng": 103.7427664844237,
+      "category": "mall",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 216,
+      "typical_duration_min": 90,
+      "stroller_friendly": "yes",
+      "nursing_room": true,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Jurong East",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "PLAYGROUND CLOSED: Westgate Wonderland (L4) closed from 17 Feb 2026. Kiddy rides: Smiley World Train Ride near Shake Shack (L1) and Zoomoov (#04-K4). Nursing rooms at B1 near Syoujin (#B1-13) and L4 near NK Robotics (#04-18); kids shower room on L4. Directly connected to Jurong East MRT and bus interchange. Strollers from the car park should use B2 Lift Lobby A. Store hours vary. Not yet confirmed: diaper changing.",
+      "source": [
+        "https://www.capitaland.com/sg/malls/westgate/en.html",
+        "https://www.capitaland.com/sg/malls/westgate/en/concierge.html"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-woodlands-library",
+      "name_en": "Woodlands Library",
+      "name_zh": "兀兰图书馆",
+      "country": "SG",
+      "area": "Woodlands",
+      "lat": 1.43496647000873,
+      "lng": 103.7868573589055,
+      "category": "library",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 144,
+      "typical_duration_min": 60,
+      "stroller_friendly": "yes",
+      "nursing_room": true,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Woodlands",
+      "walk_min_from_mrt": null,
+      "parking": null,
+      "rainy_day_backup_ids": [],
+      "notes": "NLB now calls this branch 'Woodlands Library' (formerly Woodlands Regional Library). Address: 900 South Woodlands Drive #01-03. It is closed on public holidays and closes at 5pm on the eves of Christmas, New Year and Chinese New Year. Extended hours run 9am to 10am, with staff-assisted services from 10am. Facilities include a nursing room and a storytelling/activity area. air_conditioned is not stated (suggest TRUE). Not yet confirmed: diaper changing.",
+      "source": [
+        "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/woodlands-library"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-woodlands-waterfront-park",
+      "name_en": "Woodlands Waterfront Park",
+      "name_zh": "兀兰海滨公园",
+      "country": "SG",
+      "area": "Woodlands",
+      "lat": 1.453803702811792,
+      "lng": 103.7816175460001,
+      "category": "park",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 24,
+      "max_age_months": 144,
+      "typical_duration_min": 90,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": false,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Woodlands North",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-woodlands-library"
+      ],
+      "notes": "Has a large playground, a waterfront promenade and a 400 m jetty. The car park on Admiralty Road West has 112 car lots. NParks says it is free from 6.30am to 8.30am and charged at other times. Do not feed the monkeys: long-tailed macaques are common here. Backup Woodlands Library is about 2.2 km away in a straight line. Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.nparks.gov.sg/visit/parks/park-detail/woodlands-waterfront-park"
+      ],
+      "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-yishun-park",
+      "name_en": "Yishun Park",
+      "name_zh": "义顺公园",
+      "country": "SG",
+      "area": "Yishun",
+      "lat": 1.424488067786931,
+      "lng": 103.8424828461305,
+      "category": "park",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 24,
+      "max_age_months": 144,
+      "typical_duration_min": 90,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Yishun",
+      "walk_min_from_mrt": null,
+      "parking": false,
+      "rainy_day_backup_ids": [
+        "sg-northpoint-city"
+      ],
+      "notes": "Built on an old rubber estate, with Yishun Arboretum (Singapore's first arboretum) and a nature playgarden. NParks: 'There is no carpark in the park'; use SAFRA Yishun or nearby HDB car parks. parking=FALSE means no on-site car park, not no parking nearby. Northpoint City is about 0.8 km away in a straight line. Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://www.nparks.gov.sg/visit/parks/park-detail/yishun-park"
+      ],
+      "last_verified_at": "2026-11-21"
+    }
+  ],
+  "retired_ids": []
+}

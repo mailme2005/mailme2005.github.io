@@ -1,0 +1,82 @@
+# Tripzy Issue 382 (ADR-0048): proposes place library updates from the owner's Sheet.
+# Daily and on demand: download the Sheet's published CSV, check every row, compare with the
+# published file, and open (or update) one pull request listing the changes. It never merges
+# or pushes to main; the owner reviews and merges, and GitHub Pages publishes the file.
+name: Tripzy place library
+
+on:
+  schedule:
+    - cron: "0 22 * * *" # 06:00 Singapore
+  workflow_dispatch:
+
+permissions:
+  contents: write # push the proposal branch only (main is protected; D148)
+  pull-requests: write
+
+concurrency:
+  group: tripzy-places
+  cancel-in-progress: false
+
+jobs:
+  propose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      CSV_URL: ${{ vars.TRIPZY_PLACES_CSV_URL }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: "22"
+
+      - name: Test the place tools
+        run: node --test _tools/places/test/*.test.js
+
+      - name: Download the Sheet's published CSV
+        run: |
+          if [ -z "$CSV_URL" ]; then
+            echo "::error::Set the repository variable TRIPZY_PLACES_CSV_URL to the Sheet's published CSV link."
+            exit 1
+          fi
+          case "$CSV_URL" in
+            https://docs.google.com/spreadsheets/*) ;;
+            *) echo "::error::TRIPZY_PLACES_CSV_URL must be a docs.google.com spreadsheet link."; exit 1 ;;
+          esac
+          curl --fail --silent --show-error --location --proto '=https' --proto-redir '=https' \
+            --max-time 30 --max-filesize 2000000 "$CSV_URL" -o "$RUNNER_TEMP/places.csv"
+
+      - name: Check and compare
+        id: build
+        run: |
+          set +e
+          node _tools/places/publish.js "$RUNNER_TEMP/places.csv" tripzy/places/places_sg.json "$RUNNER_TEMP/summary.md"
+          code=$?
+          set -e
+          case "$code" in
+            0) echo "changed=true" >> "$GITHUB_OUTPUT" ;;
+            3) echo "changed=false" >> "$GITHUB_OUTPUT" ;;
+            *) exit "$code" ;;
+          esac
+
+      - name: Open or update the pull request
+        if: steps.build.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BRANCH: tripzy-places/update
+          TITLE: "Tripzy places: library update from the Sheet"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$BRANCH"
+          git add tripzy/places/places_sg.json
+          git commit -m "$TITLE"
+          # The proposal branch belongs to this workflow; it is replaced on each run.
+          git push --force origin "$BRANCH"
+          if [ "$(gh pr list --head "$BRANCH" --state open --json number --jq 'length')" != "0" ]; then
+            gh pr edit "$BRANCH" --title "$TITLE" --body-file "$RUNNER_TEMP/summary.md"
+          else
+            gh pr create --base main --head "$BRANCH" --title "$TITLE" --body-file "$RUNNER_TEMP/summary.md"
+          fi
