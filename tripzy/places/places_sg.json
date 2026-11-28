@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "library_version": 1,
+  "library_version": 2,
   "country": "SG",
-  "count": 35,
+  "count": 53,
   "places": [
     {
       "id": "sg-admiralty-park",
@@ -80,6 +80,254 @@
         "https://www.nparks.gov.sg/visit/parks/park-detail/admiralty-park"
       ],
       "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-amazonia-great-world",
+      "name_en": "Amazonia, Great World",
+      "name_zh": "Amazonia 室内游乐场（大世界）",
+      "country": "SG",
+      "area": "Singapore River",
+      "lat": 1.2934518,
+      "lng": 103.8319929,
+      "category": "indoor_playground",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 12,
+      "max_age_months": 144,
+      "typical_duration_min": 150,
+      "stroller_friendly": "partial",
+      "nursing_room": true,
+      "diaper_changing": true,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": "high",
+      "opening_hours": {
+        "mon": [
+          [
+            "09:30",
+            "16:30"
+          ]
+        ],
+        "tue": [
+          [
+            "09:30",
+            "19:30"
+          ]
+        ],
+        "wed": [
+          [
+            "09:30",
+            "19:30"
+          ]
+        ],
+        "thu": [
+          [
+            "09:30",
+            "19:30"
+          ]
+        ],
+        "fri": [
+          [
+            "09:30",
+            "19:30"
+          ]
+        ],
+        "sat": [
+          [
+            "09:30",
+            "20:30"
+          ]
+        ],
+        "sun": [
+          [
+            "09:30",
+            "20:30"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Great World",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "Great World #03-113. Mon 9.30am-4.30pm; Tue-Fri 9.30am-7.30pm; Sat, Sun, PH 9.30am-8.30pm; check out 10 min before closing. 30 Nov 2026: open 11.30am-5.30pm. Child (3+) $38.90, toddler (under 3) $28.80, 1 adult free per ticket. Weekdays unlimited play; weekends, PH and school holidays 3 hours. Socks for everyone. Toddler area for 3 and below. Nursing and diaper rooms are in the mall (B1, L1, L2). Not yet confirmed: high chairs, air-conditioning.",
+      "source": [
+        "https://ticket.amazoniafun.com/",
+        "https://amazoniafun.com/",
+        "https://amazoniafun.com/contact.aspx",
+        "https://amazoniafun.com/about-us.aspx",
+        "https://amazoniafun.com/attractions.aspx",
+        "https://shop.greatworld.com.sg/",
+        "https://shop.greatworld.com.sg/explore-great-world/family-favourites/",
+        "https://shop.greatworld.com.sg/explore-great-world/getting-here/",
+        "https://shop.greatworld.com.sg/explore-great-world/parking/"
+      ],
+      "last_verified_at": "2026-11-26"
+    },
+    {
+      "id": "sg-bedok-reservoir-park",
+      "name_en": "Bedok Reservoir Park",
+      "name_zh": "勿洛蓄水池公园",
+      "country": "SG",
+      "area": "Bedok",
+      "lat": 1.339094,
+      "lng": 103.92681,
+      "category": "park",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 24,
+      "max_age_months": 144,
+      "typical_duration_min": 90,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": false,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Bedok Reservoir",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-tampines-library"
+      ],
+      "notes": "Open 24 hours. 41.7 ha park around the reservoir with a 4.3 km gravel jogging loop, a floating deck and a bird singing area. NParks says it is 200 m from Bedok Reservoir MRT. Carpark A has 91 car lots and Carpark B 83; parking fees apply. Wheelchair accessible. The nearby paid water park is a separate business and not part of this row. Backup Our Tampines Hub is about 2.2 km away. Not yet confirmed: playground details, nursing room, diaper changing, high chairs.",
+      "source": [
+        "https://www.nparks.gov.sg/visit/parks/park-detail/bedok-reservoir-park",
+        "https://pcn.nparks.gov.sg/bedok-pc/"
+      ],
+      "last_verified_at": "2026-11-26"
+    },
+    {
+      "id": "sg-bird-paradise",
+      "name_en": "Bird Paradise",
+      "name_zh": "新加坡飞禽公园",
+      "country": "SG",
+      "area": "Mandai",
+      "lat": 1.406211163199504,
+      "lng": 103.7796815334367,
+      "category": "attraction",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 12,
+      "max_age_months": 144,
+      "typical_duration_min": 180,
+      "stroller_friendly": "yes",
+      "nursing_room": true,
+      "diaper_changing": true,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": "high",
+      "opening_hours": {
+        "mon": [
+          [
+            "09:00",
+            "18:00"
+          ]
+        ],
+        "tue": [
+          [
+            "09:00",
+            "18:00"
+          ]
+        ],
+        "wed": [
+          [
+            "09:00",
+            "18:00"
+          ]
+        ],
+        "thu": [
+          [
+            "09:00",
+            "18:00"
+          ]
+        ],
+        "fri": [
+          [
+            "09:00",
+            "18:00"
+          ]
+        ],
+        "sat": [
+          [
+            "09:00",
+            "18:00"
+          ]
+        ],
+        "sun": [
+          [
+            "09:00",
+            "18:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Khatib",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-woodlands-library"
+      ],
+      "notes": "Daily 9am-6pm, last entry 5pm. Child (3-12) S$27 weekday/S$30 weekend for residents with free WildPass, S$34 non-residents; under 3 free with a ticketed adult over 21. Egg Splash wet play 9.30am-5.30pm with a toddler zone (swim diapers, no footwear), closed 8 Dec 2026 for maintenance; Treetop Play nets and trampolines. Nursing rooms at entrance, Penguin Cove, Food Central, Egg Splash. Trike/wagon rental S$18; free shuttle. M2 bus from Khatib MRT. Not yet confirmed: high chairs.",
+      "source": [
+        "https://www.mandai.com/en/bird-paradise.html",
+        "https://www.mandai.com/en/plan-your-visit/know-before-you-go/bird-paradise.html",
+        "https://www.mandai.com/en/tickets-and-passes/single-attractions/bird-paradise.html",
+        "https://www.mandai.com/en/see-and-do/kids-play/bird-paradise.html",
+        "https://www.mandai.com/en/faq/services.html",
+        "https://www.mandai.com/en/faq/admission-tickets.html",
+        "https://www.mandai.com/en/faq/getting-here.html",
+        "https://www.mandai.com/en/plan-your-visit/getting-to-and-around/getting-to-mandai-wildlife-reserve.html",
+        "https://www.mandai.com/en/announcements.html",
+        "https://www.mandai.com/zh/bird-paradise.html",
+        "https://www.onemap.gov.sg/"
+      ],
+      "last_verified_at": "2026-11-26"
     },
     {
       "id": "sg-bishan-ang-mo-kio-park",
@@ -232,6 +480,83 @@
         "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/bishan-library"
       ],
       "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-bouncetopia-safra-choa-chu-kang",
+      "name_en": "Bouncetopia by Kiztopia, SAFRA Choa Chu Kang",
+      "name_zh": "Bouncetopia 弹跳乐园（SAFRA 蔡厝港）",
+      "country": "SG",
+      "area": "Choa Chu Kang",
+      "lat": 1.3884807,
+      "lng": 103.7470479,
+      "category": "indoor_playground",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 36,
+      "max_age_months": 144,
+      "typical_duration_min": 120,
+      "stroller_friendly": "partial",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": null,
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "Indoor bounce park by Kiztopia at SAFRA Choa Chu Kang, 28 Choa Chu Kang Drive #01-04. Open Sun-Thu 10am-8pm, Fri, Sat and public holidays 10am-9pm. Zones include the Xtreme Arena and Drago's Sports Hall. SAFRA members get 5% off admission (show SAFRA card). Club car park: public rate $1.82 first hour Mon-Sat daytime. Not yet confirmed: ages, height limits, prices, playtime, socks rule, nursing room, diaper changing, nearest MRT.",
+      "source": [
+        "https://www.safra.sg/amenities-offerings/bouncetopia-kiztopia",
+        "https://www.safra.sg/clubs/choa-chu-kang",
+        "https://www.safra.sg/amenities-offerings/carpark-rates"
+      ],
+      "last_verified_at": "2026-11-26"
     },
     {
       "id": "sg-central-library",
@@ -482,6 +807,79 @@
         "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/clementi-library"
       ],
       "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-coastal-playgrove",
+      "name_en": "Coastal PlayGrove, East Coast Park",
+      "name_zh": "东海岸公园海岸游乐林",
+      "country": "SG",
+      "area": "Marine Parade",
+      "lat": 1.29678,
+      "lng": 103.8997611,
+      "category": "water_play",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 36,
+      "max_age_months": 144,
+      "typical_duration_min": 120,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": false,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [],
+        "tue": [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": null,
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-parkway-parade"
+      ],
+      "notes": "Hours are the water play area's: 8am-8pm Tue-Sun, closed Mon for maintenance; open on a PH Monday, then closed that Tuesday. Water play is for ages 5-12, nature playgarden 3-12 (open 24h), play tower 13+ (slides 8am-10pm daily). Toilet nearby to change. Via Amber Gardens Underpass. Area B car parks B1-B3; fees may apply. NParks page last updated 14 Jun 2024. Not yet confirmed: nursing room, diaper changing, high chairs, entry cost.",
+      "source": [
+        "https://www.nparks.gov.sg/visit/parks/east-coast-park/amenities/coastal-playgrove",
+        "https://www.nparks.gov.sg/visit/parks/park-detail/east-coast-park"
+      ],
+      "last_verified_at": "2026-11-26"
     },
     {
       "id": "sg-compass-one",
@@ -861,6 +1259,82 @@
       "last_verified_at": "2026-11-21"
     },
     {
+      "id": "sg-hay-dairies",
+      "name_en": "Hay Dairies Goat Farm",
+      "name_zh": "海氏羊奶场",
+      "country": "SG",
+      "area": "Lim Chu Kang",
+      "lat": 1.444186498855841,
+      "lng": 103.7303161389719,
+      "category": "farm",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 12,
+      "max_age_months": 144,
+      "typical_duration_min": 60,
+      "stroller_friendly": "partial",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": "free",
+      "opening_hours": {
+        "mon": [
+          [
+            "09:00",
+            "16:00"
+          ]
+        ],
+        "tue": [],
+        "wed": [
+          [
+            "09:00",
+            "16:00"
+          ]
+        ],
+        "thu": [
+          [
+            "09:00",
+            "16:00"
+          ]
+        ],
+        "fri": [
+          [
+            "09:00",
+            "16:00"
+          ]
+        ],
+        "sat": [
+          [
+            "09:00",
+            "16:00"
+          ]
+        ],
+        "sun": [
+          [
+            "09:00",
+            "16:00"
+          ]
+        ]
+      },
+      "booking_required": false,
+      "nearest_mrt": "Kranji",
+      "walk_min_from_mrt": null,
+      "parking": false,
+      "rainy_day_backup_ids": [
+        "sg-woodlands-library"
+      ],
+      "notes": "Free walk-in for groups under 10; 10 or more must book a paid educational tour. Open 9am-4pm, closed Tuesdays except public holidays. Milking viewing 9-10.30am (visitors cannot milk). Alfalfa hay S$6 a packet, sold until 3pm. Weekend/PH peak 9.30-11am. No visit to a cow farm in the month before. No parking at the farm: park at Sungei Buloh Wetland Reserve Neo Tiew Crescent car park and use the farm pedestrian gate. Not yet confirmed: nursing room, diaper changing.",
+      "source": [
+        "https://haydairies.sg/farm-visit-2/free-and-easy-tour/",
+        "https://haydairies.sg/faq/",
+        "https://haydairies.sg/contact-us/",
+        "https://haydairies.sg/farm-visit-2/",
+        "https://www.onemap.gov.sg/"
+      ],
+      "last_verified_at": "2026-11-26"
+    },
+    {
       "id": "sg-hortpark",
       "name_en": "HortPark",
       "name_zh": "园艺公园",
@@ -1005,7 +1479,7 @@
       "rainy_day_backup_ids": [
         "sg-tanglin-mall"
       ],
-      "notes": "Open 8am-7pm, last admission 6:30pm. Closed Mondays unless the Monday is a public holiday. Free. 4 ha with eight zones; waterplay of about 500 sqm for ages 2-12, with a changing area. Adults may enter only with a child. No bicycles, scooters or glass. Botanic Gardens MRT (CC19/DT9) Exit A, then a 10-minute walk. Paid parking at the garden (closed Mondays) and at NUS Bukit Timah Campus. Wheelchair accessible. Not yet confirmed: nursing room, diaper changing.",
+      "notes": "Open 8am-7pm, last admission 6:30pm. Closed Mondays unless the Monday is a public holiday. Free. Tree House closed (termite damage) until about end 2027 (NParks). 4 ha with eight zones; waterplay of about 500 sqm for ages 2-12, with a changing area. Adults may enter only with a child. No bicycles, scooters or glass. Botanic Gardens MRT Exit A. Paid parking at the garden (closed Mondays) and at NUS Bukit Timah Campus. Wheelchair accessible. Not yet confirmed: nursing room, diaper changing.",
       "source": [
         "https://sbg.nparks.gov.sg/attractions/jacob-ballas-childrens--garden/",
         "https://sbg.nparks.gov.sg/visit/general-info/"
@@ -1091,6 +1565,86 @@
         "https://www.jewelchangiairport.com/en/attractions/canopy-park.html"
       ],
       "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-jolly-jungle-our-tampines-hub",
+      "name_en": "Jolly Jungle Kids Indoor Playground @ Our Tampines Hub",
+      "name_zh": "欢乐丛林室内游乐场（淡滨尼天地）",
+      "country": "SG",
+      "area": "Tampines",
+      "lat": 1.353387007574042,
+      "lng": 103.9402689938395,
+      "category": "indoor_playground",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 144,
+      "typical_duration_min": 120,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": "medium",
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ]
+      },
+      "booking_required": false,
+      "nearest_mrt": "Tampines",
+      "walk_min_from_mrt": 5,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "UNOFFICIAL HOURS: 10am-9pm daily, 10am-5pm on PH eves, closed on PH, from Little Day Out (3 Jan 2025); the operator states only last entry 7.45pm (owner accepted, 27 Nov 2026). Paid playground at #03-02 inside Tampines Library, entered from the library's Level 2. Ages 12 and under. Weekday S$13 for 1 h or S$22 for 2 h, weekend S$15 or S$25, each 1 child + 1 adult. Walk-in only. Not yet confirmed: socks rule, nursing room, diaper changing.",
+      "source": [
+        "https://www.jollyjungle.sg/",
+        "https://www.jollyjungle.sg/event-details/single-admission",
+        "https://www.pa.gov.sg/our-network/our-tampines-hub/festive-mall-directory/",
+        "https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/tampines-library",
+        "https://go.gov.sg/oth-hubguide",
+        "https://www.littledayout.com/jolly-jungle-indoor-playground-our-tampines-hub/"
+      ],
+      "last_verified_at": "2026-11-27"
     },
     {
       "id": "sg-jurong-lake-gardens",
@@ -1379,6 +1933,167 @@
       "last_verified_at": "2026-11-21"
     },
     {
+      "id": "sg-kiztopia-club-woodleigh",
+      "name_en": "Kiztopia Club @ The Woodleigh Mall",
+      "name_zh": "Kiztopia Club 儿童乐园（兀里购物中心）",
+      "country": "SG",
+      "area": "Toa Payoh",
+      "lat": 1.3386013,
+      "lng": 103.8716841,
+      "category": "indoor_playground",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 12,
+      "max_age_months": 144,
+      "typical_duration_min": 120,
+      "stroller_friendly": "partial",
+      "nursing_room": true,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ]
+      },
+      "booking_required": false,
+      "nearest_mrt": "Woodleigh",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "Paid underwater-themed indoor playground (3,000 sq ft: ball pits, trampoline, role-play room, sand pit) at #01-50/51. Sun-Thu 10am-8pm; Fri, Sat, eve of PH and PH 10am-9pm. Closes at 5pm on the 1st Tuesday of each month for cleaning. Paid ticket for ages 1-12; under 1 free with a paying child. Grip socks required. Adults 18+ must supervise children 12 and under. No outside food (baby formula allowed). Walk-in. Not yet confirmed: prices, diaper changing.",
+      "source": [
+        "https://kiztopia.com/branches/the-woodleigh-mall",
+        "https://kiztopia.com/faq",
+        "https://kiztopia.com/house-rules",
+        "https://kiztopia.com/booking-and-ticketing",
+        "https://www.thewoodleighmall.com/stores",
+        "https://www.thewoodleighmall.com/visit"
+      ],
+      "last_verified_at": "2026-11-26"
+    },
+    {
+      "id": "sg-nex-kidzplay-skygarden",
+      "name_en": "kidzPLAY @ SkyGarden, NEX",
+      "name_zh": "NEX 空中花园 kidzPLAY 儿童乐园",
+      "country": "SG",
+      "area": "Serangoon",
+      "lat": 1.3505641,
+      "lng": 103.8722274,
+      "category": "playground",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 24,
+      "max_age_months": 144,
+      "typical_duration_min": 90,
+      "stroller_friendly": "partial",
+      "nursing_room": true,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "11:00",
+            "19:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "19:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "19:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "19:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "19:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "19:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "19:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Serangoon",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-the-woodleigh-mall",
+        "sg-bishan-library"
+      ],
+      "notes": "Rooftop playground at NEX (Level 4R). NEX says kidzPLAY @ SkyGarden is open 11am to 7pm daily; the play area is titled 'Pirates Sea Adventure'. NEX mall is open 10.30am to 10.30pm daily, next to Serangoon MRT (NE12/CC13). Nursing & baby room at SkyGarden (L4R) near the library, plus 11 more in the mall. Car park from S$1.50 first hour (weekdays). Not yet confirmed: water-play hours, age limits, wet-weather closure, maintenance day, entry fee, diaper changing.",
+      "source": [
+        "https://www.nex.com.sg/Information/Amenities",
+        "https://www.nex.com.sg/Information/Location",
+        "https://www.nex.com.sg/Information/Parking",
+        "https://kiztopia.com/branches/skypark"
+      ],
+      "last_verified_at": "2026-11-26"
+    },
+    {
       "id": "sg-northpoint-city",
       "name_en": "Northpoint City",
       "name_zh": "北点城",
@@ -1456,6 +2171,85 @@
       "last_verified_at": "2026-11-21"
     },
     {
+      "id": "sg-our-tampines-hub",
+      "name_en": "Our Tampines Hub (free play areas)",
+      "name_zh": "淡滨尼天地",
+      "country": "SG",
+      "area": "Tampines",
+      "lat": 1.353387007574042,
+      "lng": 103.9402689938395,
+      "category": "indoor_playground",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 12,
+      "max_age_months": 84,
+      "typical_duration_min": 60,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Tampines",
+      "walk_min_from_mrt": 5,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "UNOFFICIAL HOURS: about 10am-10pm daily, from singaporeplaygrounds.com (updated 20 Oct 2026); no PA page gives hours (owner accepted, 27 Nov 2026). Free play areas in the People's Association hub at 1 Tampines Walk: Festive Play (B1, indoor, ages 7 and below per the 2024 Hub Guide) and the Sky Terrace playground (L2, sheltered). Paid Jolly Jungle is a separate row. Car parks on B1-B2; about 5 min from Tampines MRT. Not yet confirmed: entry cost, nursing room, diaper changing.",
+      "source": [
+        "https://go.gov.sg/oth-hubguide",
+        "https://www.pa.gov.sg/our-network/our-tampines-hub/our-tampines-hub/",
+        "https://www.pa.gov.sg/our-network/our-tampines-hub/festive-mall-directory/",
+        "https://www.pa.gov.sg/our-network/our-tampines-hub/contact-us/",
+        "https://singaporeplaygrounds.com/guides/free-indoor-playgrounds-singapore/"
+      ],
+      "last_verified_at": "2026-11-27"
+    },
+    {
       "id": "sg-palawan-beach",
       "name_en": "Palawan Beach, Sentosa",
       "name_zh": "巴拉湾海滩",
@@ -1531,6 +2325,83 @@
         "https://www.sentosa.com.sg/en/things-to-do/attractions/palawan-beach/"
       ],
       "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-paragon-junior",
+      "name_en": "Paragon Junior playground (Level 5, Paragon)",
+      "name_zh": "百利宫 Paragon Junior 儿童游乐场",
+      "country": "SG",
+      "area": "Orchard",
+      "lat": 1.3037371,
+      "lng": 103.8355203,
+      "category": "indoor_playground",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 12,
+      "max_age_months": 96,
+      "typical_duration_min": 45,
+      "stroller_friendly": "yes",
+      "nursing_room": true,
+      "diaper_changing": true,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Orchard",
+      "walk_min_from_mrt": 5,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "Playground and kiddy rides on Level 5 (Paragon Junior, the kids' floor of Paragon, 290 Orchard Road). Mall open 10am to 10pm daily; the playground's own hours are not stated. Family and nursing rooms on L3 and L5 with diaper-changing station, wash basin and hot water. Orchard MRT Exit A, about 5 minutes' walk. Car park S$3 first hour plus an 11am-3pm surcharge Mon-Sat. Not yet confirmed: whether the playground is free, age limits, high chairs.",
+      "source": [
+        "https://paragon.com.sg/paragon-junior/",
+        "https://paragon.com.sg/services/getting-here/",
+        "https://paragon.com.sg/services/"
+      ],
+      "last_verified_at": "2026-11-26"
     },
     {
       "id": "sg-parkway-parade",
@@ -1687,6 +2558,88 @@
         "https://www.nparks.gov.sg/visit/parks/children"
       ],
       "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-play-at-heights-park",
+      "name_en": "PLAY@Heights Park",
+      "name_zh": "大巴窑高地公园游乐场",
+      "country": "SG",
+      "area": "Toa Payoh",
+      "lat": 1.33456,
+      "lng": 103.8446541,
+      "category": "playground",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 24,
+      "max_age_months": 144,
+      "typical_duration_min": 120,
+      "stroller_friendly": "partial",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "08:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "08:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "08:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "08:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "08:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "08:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "08:00",
+            "21:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": null,
+      "walk_min_from_mrt": null,
+      "parking": null,
+      "rainy_day_backup_ids": [
+        "sg-bishan-library",
+        "sg-the-woodleigh-mall"
+      ],
+      "notes": "UNOFFICIAL HOURS: 8am-9pm daily, from Sassy Mama SG (posted 16 Jun 2026); the town council gives no hours (owner accepted, 27 Nov 2026). Water sprays reported to start about 9.30am. Town council playpark at Blk 144 Lorong 2 Toa Payoh, opened 28 May 2022, with water features: Maritime Magic, Beach Bonanza, Kids Kampong, Trampoline Tempo, Skates & Scooters. Free entry per blogs. Not yet confirmed: age limits, maintenance day, toilets, nursing room, diaper changing, parking.",
+      "source": [
+        "https://www.btptc.org.sg/OurTown/EventDetails/PLAY@HeightsPark-Grand-Opening",
+        "https://www.btptc.org.sg/OurTown/TownImprovementProject",
+        "https://www.btptc.org.sg/Gallery/Detail/Implementation-of-Solar-Powered-Lighting-at-Play-Heights-Park",
+        "https://www.pub.gov.sg/Resources/News-Room/Forum-Replies",
+        "https://www.sassymamasg.com/play-free-water-play-parks/"
+      ],
+      "last_verified_at": "2026-11-27"
     },
     {
       "id": "sg-punggol-library",
@@ -1996,6 +2949,165 @@
       "last_verified_at": "2026-11-21"
     },
     {
+      "id": "sg-singapore-botanic-gardens",
+      "name_en": "Singapore Botanic Gardens",
+      "name_zh": "新加坡植物园",
+      "country": "SG",
+      "area": "Tanglin",
+      "lat": 1.307126586883799,
+      "lng": 103.8185185263201,
+      "category": "park",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 0,
+      "max_age_months": 216,
+      "typical_duration_min": 120,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": true,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": "free",
+      "opening_hours": {
+        "mon": [
+          [
+            "05:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "05:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "05:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "05:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "05:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "05:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "05:00",
+            "24:00"
+          ]
+        ]
+      },
+      "booking_required": false,
+      "nearest_mrt": "Napier",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-tanglin-mall"
+      ],
+      "notes": "Open 5am-midnight daily, free entry. National Orchid Garden is paid (local adult S$5, children under 12 free), 8.30am-7pm, last entry 6pm. Most themed gardens 7am-7pm. Rain Forest, Learning Forest and Rambler's Ridge close in bad weather. NParks says the Gardens are fully wheelchair friendly. No cycling or scooters. Botany Centre car park at Tanglin Entrance (224 lots, $0.02/min). Evolution Garden closed to 4 Dec 2026. Not yet confirmed: nursing room, high chairs.",
+      "source": [
+        "https://sbg.nparks.gov.sg/visit/general-info/",
+        "https://sbg.nparks.gov.sg/visit/notices/",
+        "https://isomer-user-content.by.gov.sg/152/700cdc9c-ccd5-487b-9830-0eb2aa1fa103/Map%20SBG%20Current%20070826.pdf",
+        "https://www.onemap.gov.sg/"
+      ],
+      "last_verified_at": "2026-11-26"
+    },
+    {
+      "id": "sg-singapore-flyer-play-space",
+      "name_en": "Singapore Flyer Play Space",
+      "name_zh": "新加坡摩天观景轮儿童游乐空间",
+      "country": "SG",
+      "area": "Downtown Core",
+      "lat": 1.2894379,
+      "lng": 103.8632598,
+      "category": "indoor_playground",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 12,
+      "max_age_months": 72,
+      "typical_duration_min": 30,
+      "stroller_friendly": "yes",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Promenade",
+      "walk_min_from_mrt": 8,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "Small indoor play room at #01-05, Level 1 of Singapore Flyer, 30 Raffles Avenue. Open 10am to 10pm daily, including public holidays. Promenade MRT (CC4/DT15) Exit A, about 8 minutes' walk. Flyer car park has 284 lots at S$2.50 per hour (9am-10.59pm). Restrooms on Levels 1-3. Not yet confirmed: free entry without a Flyer ticket, age limits, nursing room, diaper changing.",
+      "source": [
+        "https://www.singaporeflyer.com/en/amenity/play-space",
+        "https://www.singaporeflyer.com/cn/amenity/play-space",
+        "https://www.singaporeflyer.com/en/guest-information",
+        "https://www.singaporeflyer.com/en/amenity/getting-to-singapore-flyer",
+        "https://www.singaporeflyer.com/en/faqs"
+      ],
+      "last_verified_at": "2026-11-26"
+    },
+    {
       "id": "sg-singapore-oceanarium",
       "name_en": "Singapore Oceanarium (formerly S.E.A. Aquarium), Resorts World Sentosa",
       "name_zh": "新加坡海洋生态馆",
@@ -2070,6 +3182,172 @@
         "https://www.rwsentosa.com/zh-cn/play/singapore-oceanarium"
       ],
       "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-singapore-zoo",
+      "name_en": "Singapore Zoo",
+      "name_zh": "新加坡动物园",
+      "country": "SG",
+      "area": "Mandai",
+      "lat": 1.405594392694957,
+      "lng": 103.7895982929428,
+      "category": "attraction",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 12,
+      "max_age_months": 144,
+      "typical_duration_min": 240,
+      "stroller_friendly": "yes",
+      "nursing_room": true,
+      "diaper_changing": true,
+      "high_chairs": null,
+      "shade": true,
+      "cost_level": "high",
+      "opening_hours": {
+        "mon": [
+          [
+            "08:30",
+            "18:00"
+          ]
+        ],
+        "tue": [
+          [
+            "08:30",
+            "18:00"
+          ]
+        ],
+        "wed": [
+          [
+            "08:30",
+            "18:00"
+          ]
+        ],
+        "thu": [
+          [
+            "08:30",
+            "18:00"
+          ]
+        ],
+        "fri": [
+          [
+            "08:30",
+            "18:00"
+          ]
+        ],
+        "sat": [
+          [
+            "08:30",
+            "18:00"
+          ]
+        ],
+        "sun": [
+          [
+            "08:30",
+            "18:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Khatib",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-woodlands-library"
+      ],
+      "notes": "Daily 8.30am-6pm, last entry 5pm. Child (3-12) S$27 weekday/S$30 weekend for residents with free WildPass, S$34 non-residents; under 3 free with a ticketed adult over 21. Mandai recommends buying online. KidzWorld has Splish Splash wet play, animal contact area and a S$4 carousel. Nursing rooms at KidzWorld, Reptile Kingdom, entrance. Wagon rental S$18; free tram. Wild macaques target prams. M2 bus from Khatib MRT. Penguin exhibit closed to 30 Nov 2026. Not yet confirmed: high chairs.",
+      "source": [
+        "https://www.mandai.com/en/singapore-zoo.html",
+        "https://www.mandai.com/en/plan-your-visit/know-before-you-go/singapore-zoo.html",
+        "https://www.mandai.com/en/tickets-and-passes/single-attractions/singapore-zoo.html",
+        "https://www.mandai.com/en/singapore-zoo/animals-and-zones/kidzworld.html",
+        "https://www.mandai.com/en/see-and-do/kids-play/singapore-zoo.html",
+        "https://www.mandai.com/en/faq/services.html",
+        "https://www.mandai.com/en/faq/admission-tickets.html",
+        "https://www.mandai.com/en/faq/getting-here.html",
+        "https://www.mandai.com/en/plan-your-visit/getting-to-and-around/getting-to-mandai-wildlife-reserve.html",
+        "https://www.mandai.com/en/announcements.html",
+        "https://www.mandai.com/zh/singapore-zoo.html",
+        "https://www.onemap.gov.sg/"
+      ],
+      "last_verified_at": "2026-11-26"
+    },
+    {
+      "id": "sg-tampines-boulevard-park",
+      "name_en": "Tampines Boulevard Park",
+      "name_zh": "淡滨尼林荫道公园",
+      "country": "SG",
+      "area": "Tampines",
+      "lat": 1.3637423,
+      "lng": 103.9407322,
+      "category": "park",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 24,
+      "max_age_months": 120,
+      "typical_duration_min": 75,
+      "stroller_friendly": "partial",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": false,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": "Tampines",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [
+        "sg-tampines-library"
+      ],
+      "notes": "Open 24 hours. 10.06 ha park in two sections split by Tampines Ave 12, officially opened 22 Feb 2025. West: sand play with swings and rock wall, nature playgarden with dragon head slide, 60 m kids' cycling track. East: nature playgarden with swings and log beams, dog run. Nearest parking: Blk 623C Tampines Ave 12 (west), Blk 413 Tampines St 41 (east). Stepping stone path to the elevated garden is not wheelchair friendly. Not yet confirmed: nursing room, diaper changing, toilets, high chairs.",
+      "source": [
+        "https://www.nparks.gov.sg/visit/parks/park-detail/tampines-boulevard-park",
+        "https://www.nparks.gov.sg/news/news-detail/official-opening-of-tampines-boulevard-park"
+      ],
+      "last_verified_at": "2026-11-26"
     },
     {
       "id": "sg-tampines-library",
@@ -2224,6 +3502,164 @@
         "https://www.tanglinmall.com.sg/explore-tanglin-mall/getting-here/"
       ],
       "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "sg-the-arena-keat-hong",
+      "name_en": "The Arena @ Keat Hong",
+      "name_zh": "吉丰竞技场",
+      "country": "SG",
+      "area": "Choa Chu Kang",
+      "lat": 1.3811672,
+      "lng": 103.7400422,
+      "category": "playground",
+      "indoor": false,
+      "air_conditioned": false,
+      "min_age_months": 18,
+      "max_age_months": 144,
+      "typical_duration_min": 90,
+      "stroller_friendly": "partial",
+      "nursing_room": false,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": null,
+      "opening_hours": {
+        "mon": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "00:00",
+            "24:00"
+          ]
+        ]
+      },
+      "booking_required": null,
+      "nearest_mrt": null,
+      "walk_min_from_mrt": null,
+      "parking": null,
+      "rainy_day_backup_ids": [
+        "sg-bouncetopia-safra-choa-chu-kang",
+        "sg-westgate"
+      ],
+      "notes": "UNOFFICIAL HOURS: open 24 hours, from Bykido (17 Jun 2022); no official page gives hours (owner accepted, 27 Nov 2026). Town council sports and play hub next to Blk 411 CCK Ave 3 and Blk 427 CCK Ave 4, opened 19 Jun 2022: a mega playground with three-storey towers, a ship-themed play area, slides and interactive play pillars (South West CDC, 2022). Free entry per blogs. Not yet confirmed: toddler area, toilets, nursing room, diaper changing, parking, nearest MRT/LRT.",
+      "source": [
+        "https://isomer-user-content.by.gov.sg/329/b75baaba-4af7-4e47-981a-23f55e034aad/bridge-issue3-may-jun-2022.pdf",
+        "https://www.hdb.gov.sg/-/media/about-us/our-role/plan-and-design-towns/town-design-guides/Choa-Chu-Kang-Town-Design-Guide.pdf",
+        "https://www.bykido.com/blogs/playgrounds-and-more/the-arena-keat-hong-playground-futsal-pitch-basketball-badminton-court"
+      ],
+      "last_verified_at": "2026-11-27"
+    },
+    {
+      "id": "sg-the-woodleigh-mall",
+      "name_en": "The Woodleigh Mall",
+      "name_zh": "兀里购物中心",
+      "country": "SG",
+      "area": "Toa Payoh",
+      "lat": 1.3386013,
+      "lng": 103.8716841,
+      "category": "mall",
+      "indoor": true,
+      "air_conditioned": true,
+      "min_age_months": 0,
+      "max_age_months": 144,
+      "typical_duration_min": 90,
+      "stroller_friendly": "yes",
+      "nursing_room": true,
+      "diaper_changing": false,
+      "high_chairs": null,
+      "shade": null,
+      "cost_level": "free",
+      "opening_hours": {
+        "mon": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ]
+      },
+      "booking_required": false,
+      "nearest_mrt": "Woodleigh",
+      "walk_min_from_mrt": null,
+      "parking": true,
+      "rainy_day_backup_ids": [],
+      "notes": "Mall open 10am to 10pm daily, at 11 Bidadari Park Drive. Woodleigh MRT (NE11) Exits A and E. Nursing rooms on B1, L1 and L2. Car park S$1.55 first hour. The mall's site refers to an Upcycled Playground at #01-49 (Level 1, indoors), but gives no hours, ages or entry rules for it. Paid Kiztopia Club is at #01-50/51. Not yet confirmed: Upcycled Playground hours, ages and free entry; diaper changing; high chairs.",
+      "source": [
+        "https://www.thewoodleighmall.com/visit",
+        "https://www.thewoodleighmall.com/happenings",
+        "https://www.thewoodleighmall.com/stores",
+        "https://www.thewoodleighmall.com/eco-reimagined"
+      ],
+      "last_verified_at": "2026-11-26"
     },
     {
       "id": "sg-vivocity",
